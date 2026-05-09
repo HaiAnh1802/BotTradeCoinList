@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8" />
+<title>BotTradeList — Telegram → MEXC</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    background: #0e1217; color: #e6e6e6;
+    margin: 0; padding: 20px;
+  }
+  h1 { margin: 0 0 16px; color: #4fc3f7; }
+  h2 { color: #81d4fa; border-bottom: 1px solid #2a3340; padding-bottom: 6px; margin-top: 0; }
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  .card {
+    background: #161b22; border: 1px solid #2a3340; border-radius: 8px;
+    padding: 16px;
+  }
+  .card.full { grid-column: 1 / -1; }
+  label {
+    display: block; margin-top: 10px; font-size: 13px; color: #9ca3af;
+  }
+  input, select, textarea {
+    width: 100%; padding: 8px; margin-top: 4px;
+    background: #0e1217; color: #e6e6e6;
+    border: 1px solid #2a3340; border-radius: 4px;
+    font-family: inherit; font-size: 14px;
+  }
+  /* Checkbox: không stretch, label cùng hàng */
+  label.checkbox-row {
+    display: flex; align-items: center; gap: 8px;
+    color: #e6e6e6; font-size: 14px; cursor: pointer;
+  }
+  label.checkbox-row input[type="checkbox"] {
+    width: auto; margin: 0; accent-color: #16a34a;
+    width: 16px; height: 16px;
+  }
+  input:focus, textarea:focus { outline: none; border-color: #4fc3f7; }
+  button {
+    padding: 8px 16px; margin-right: 8px; margin-top: 12px;
+    background: #1f6feb; color: white; border: none; border-radius: 4px;
+    cursor: pointer; font-weight: 600;
+  }
+  button:hover { background: #2980f0; }
+  button.danger { background: #d73a49; }
+  button.danger:hover { background: #e35160; }
+  button.success { background: #2ea043; }
+  button.success:hover { background: #34c453; }
+  button.secondary { background: #30363d; }
+  .status {
+    display: inline-block; padding: 4px 10px; border-radius: 12px;
+    font-size: 12px; font-weight: 600;
+  }
+  .status.on { background: #2ea043; color: white; }
+  .status.off { background: #6e7681; color: white; }
+  .row { display: flex; gap: 12px; }
+  .row > * { flex: 1; }
+  .log {
+    background: #0a0d12; padding: 10px; border-radius: 4px;
+    height: 280px; overflow-y: auto;
+    font-family: 'Consolas', monospace; font-size: 12px;
+  }
+  .log-line { padding: 2px 0; }
+  .log-line.warn { color: #f0c674; }
+  .log-line.error { color: #f47174; }
+  .log-line.success { color: #6dd66d; }
+  table {
+    width: 100%; border-collapse: collapse; font-size: 13px;
+  }
+  th, td { padding: 8px; border-bottom: 1px solid #2a3340; text-align: left; }
+  th { color: #9ca3af; font-weight: 600; }
+  .pill { padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; }
+  .pill.ok { background: #2ea043; }
+  .pill.no { background: #6e7681; }
+  .toast {
+    position: fixed; top: 20px; right: 20px;
+    background: #1f6feb; color: white; padding: 10px 16px;
+    border-radius: 4px; opacity: 0; transition: opacity 0.3s;
+    z-index: 1000;
+  }
+  .toast.show { opacity: 1; }
+  .toast.error { background: #d73a49; }
+</style>
+</head>
+<body>
+
+<h1>🤖 BotTradeList — Telegram Listing Sniper</h1>
+
+<div style="margin-bottom: 12px;">
+  <span>Trạng thái: <span id="status" class="status off">OFF</span></span>
+  <span style="margin-left: 16px;">MEXC contracts: <b id="contracts">-</b></span>
+  <span style="margin-left: 16px;">Coin đã xử lý: <b id="processed">0</b></span>
+  <button class="success" onclick="startBot()">▶ Start</button>
+  <button class="danger" onclick="stopBot()">■ Stop</button>
+  <button class="secondary" onclick="resetProcessed()">🔄 Reset coin đã xử lý</button>
+  <button class="secondary" onclick="refreshContracts()">⟳ Tải lại MEXC contracts</button>
+</div>
+
+<div class="grid">
+
+  <div class="card">
+    <h2>📱 Telegram</h2>
+    <label>API ID</label>
+    <input id="tg_api_id" type="number" />
+    <label>API Hash</label>
+    <input id="tg_api_hash" />
+    <label>Số điện thoại (+84...)</label>
+    <input id="tg_phone" />
+    <label>Session name</label>
+    <input id="tg_session" />
+    <label>Target groups (chat_id hoặc @username, mỗi dòng 1 nhóm)</label>
+    <textarea id="tg_groups" rows="3"></textarea>
+
+    <hr style="border-color:#333; margin:14px 0;">
+    <div id="tg_auth_status" style="margin-bottom:8px; font-size:13px;">⏳ Đang kiểm tra...</div>
+    <div class="row">
+      <button onclick="tgConnect()" style="background:#2563eb;">🔑 Kết nối Telegram</button>
+      <button onclick="tgCheckStatus()" style="background:#475569;">↻ Kiểm tra</button>
+    </div>
+    <div id="tg_otp_box" style="display:none; margin-top:10px;">
+      <label>Mã OTP (Telegram gửi về app)</label>
+      <input id="tg_code" placeholder="VD: 12345" />
+      <label>Mật khẩu 2FA (nếu có)</label>
+      <input id="tg_password" type="password" placeholder="Để trống nếu không bật 2FA" />
+      <button onclick="tgVerify()" style="background:#16a34a; margin-top:6px;">✅ Xác minh</button>
+    </div>
+    <button class="success" onclick="saveConfig()" style="margin-top:10px;">💾 Lưu cấu hình</button>
+  </div>
+
+  <div class="card">
+    <h2>💰 MEXC Futures</h2>
+    <label>API Key</label>
+    <input id="mx_key" />
+    <label>API Secret</label>
+    <input id="mx_secret" type="password" />
+    <label>UID (tuỳ chọn — nhập User ID nếu cần)</label>
+    <input id="mx_uid" placeholder="VD: 12345678" />
+    <label>Proxy (tuỳ chọn — http/https/socks5)</label>
+    <input id="mx_proxy" placeholder="http://user:pass@host:port" />
+    <div class="row">
+      <div>
+        <label>Leverage</label>
+        <input id="mx_lev" type="number" min="1" max="200" />
+      </div>
+      <div>
+        <label>Margin type</label>
+        <select id="mx_margin">
+          <option value="isolated">Isolated</option>
+          <option value="cross">Cross</option>
+        </select>
+      </div>
+    </div>
+    <div class="row">
+      <div>
+        <label>Position size (USDT)</label>
+        <input id="mx_size" type="number" step="0.1" />
+      </div>
+      <div>
+        <label>TP %</label>
+        <input id="mx_tp" type="number" step="0.1" />
+      </div>
+      <div>
+        <label>SL %</label>
+        <input id="mx_sl" type="number" step="0.1" />
+      </div>
+    </div>
+    <button onclick="testMexc()">🔌 Test kết nối MEXC</button>
+    <button class="success" onclick="saveConfig()">💾 Lưu cấu hình</button>
+  </div>
+
+  <div class="card">
+    <h2>⚙️ Trading</h2>
+    <label class="checkbox-row"><input type="checkbox" id="tr_enabled" /> Bật giao dịch tự động (nếu tắt: chỉ ghi log, không vào lệnh)</label>
+    <label class="checkbox-row"><input type="checkbox" id="tr_auto" /> Auto LONG khi có signal</label>
+    <button class="success" onclick="saveConfig()">💾 Lưu cấu hình</button>
+  </div>
+
+  <div class="card">
+    <h2>📡 Logs realtime</h2>
+    <div id="logs" class="log"></div>
+  </div>
+
+  <div class="card full">
+    <h2>💼 Vị thế đang mở
+      <button onclick="refreshPositions()" style="background:#475569; float:right; padding:4px 10px;">↻ Làm mới</button>
+    </h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Symbol</th><th>Side</th><th>Lev</th><th>Vol</th>
+          <th>Entry</th><th>Mark</th><th>TP</th><th>SL</th>
+          <th>Margin</th><th>PnL</th><th>Hành động</th>
+        </tr>
+      </thead>
+      <tbody id="positions_body"><tr><td colspan="11" style="text-align:center; color:#666;">Chưa có vị thế</td></tr></tbody>
+    </table>
+  </div>
+
+  <div class="card full">
+    <h2>📊 Lịch sử signal</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Thời gian</th><th>Coin</th><th>Symbol</th><th>Vào lệnh</th>
+          <th>Entry</th><th>TP</th><th>SL</th><th>Vol</th><th>Note</th>
+        </tr>
+      </thead>
+      <tbody id="signals_body"></tbody>
+    </table>
+  </div>
+
+</div>
+
+<div id="toast" class="toast"></div>
+
+<script>
+const API = "";
+
+function toast(msg, isErr = false) {
+  const el = document.getElementById("toast");
+  el.textContent = msg;
+  el.className = "toast show" + (isErr ? " error" : "");
+  setTimeout(() => el.className = "toast", 2500);
+}
+
+async function api(path, method = "GET", body = null) {
+  const opts = { method, headers: { "Content-Type": "application/json" } };
+  if (body) opts.body = JSON.stringify(body);
+  const r = await fetch(API + path, opts);
+  return r.json();
+}
+
+async function loadConfig() {
+  const c = await api("/api/config");
+  document.getElementById("tg_api_id").value = c.telegram.api_id || "";
+  document.getElementById("tg_api_hash").value = c.telegram.api_hash || "";
+  document.getElementById("tg_phone").value = c.telegram.phone || "";
+  document.getElementById("tg_session").value = c.telegram.session_name || "";
+  document.getElementById("tg_groups").value = (c.telegram.target_groups || []).join("\n");
+
+  document.getElementById("mx_key").value = c.mexc.api_key || "";
+  document.getElementById("mx_secret").value = c.mexc.api_secret || "";
+  document.getElementById("mx_uid").value = c.mexc.uid || "";
+  document.getElementById("mx_proxy").value = c.mexc.proxy || "";
+  document.getElementById("mx_lev").value = c.mexc.leverage || 10;
+  document.getElementById("mx_margin").value = c.mexc.margin_type || "isolated";
+  document.getElementById("mx_size").value = c.mexc.position_size_usdt || 5;
+  document.getElementById("mx_tp").value = c.mexc.tp_percent || 5;
+  document.getElementById("mx_sl").value = c.mexc.sl_percent || 2;
+
+  document.getElementById("tr_enabled").checked = !!c.trading.enabled;
+  document.getElementById("tr_auto").checked = !!c.trading.auto_long_on_signal;
+}
+
+async function saveConfig() {
+  const groups = document.getElementById("tg_groups").value
+    .split(/[\n,]/).map(s => s.trim()).filter(Boolean);
+
+  const cfg = {
+    telegram: {
+      api_id: parseInt(document.getElementById("tg_api_id").value) || 0,
+      api_hash: document.getElementById("tg_api_hash").value.trim(),
+      phone: document.getElementById("tg_phone").value.trim(),
+      session_name: document.getElementById("tg_session").value.trim() || "my_session",
+      target_groups: groups,
+    },
+    mexc: {
+      api_key: document.getElementById("mx_key").value.trim(),
+      api_secret: document.getElementById("mx_secret").value.trim(),
+      uid: document.getElementById("mx_uid").value.trim(),
+      proxy: document.getElementById("mx_proxy").value.trim(),
+      leverage: parseInt(document.getElementById("mx_lev").value) || 10,
+      margin_type: document.getElementById("mx_margin").value,
+      position_size_usdt: parseFloat(document.getElementById("mx_size").value) || 5,
+      tp_percent: parseFloat(document.getElementById("mx_tp").value) || 5,
+      sl_percent: parseFloat(document.getElementById("mx_sl").value) || 2,
+    },
+    trading: {
+      enabled: document.getElementById("tr_enabled").checked,
+      auto_long_on_signal: document.getElementById("tr_auto").checked,
+    },
+  };
+  const r = await api("/api/config", "POST", cfg);
+  toast(r.success ? "Đã lưu cấu hình" : "Lỗi lưu", !r.success);
+}
+
+async function startBot() {
+  const r = await api("/api/start", "POST");
+  toast(r.message, !r.success);
+}
+async function stopBot() {
+  const r = await api("/api/stop", "POST");
+  toast(r.message, !r.success);
+}
+async function resetProcessed() {
+  await api("/api/reset_processed", "POST");
+  toast("Đã reset");
+}
+async function refreshContracts() {
+  const r = await api("/api/mexc/refresh", "POST");
+  toast(`Đã tải ${r.contracts} contracts`);
+}
+async function testMexc() {
+  await saveConfig();
+  const r = await api("/api/mexc/test", "POST");
+  let m = `Contracts: ${r.contracts}`;
+  if (r.auth !== null) m += ` | Auth: ${r.auth ? "✅" : "❌ " + r.auth_message}`;
+  toast(m, r.auth === false);
+}
+
+// ---- Telegram auth ----
+async function tgCheckStatus() {
+  const r = await api("/api/telegram/status");
+  const el = document.getElementById("tg_auth_status");
+  if (r.authorized) {
+    el.innerHTML = "✅ <b style='color:#16a34a;'>Đã đăng nhập Telegram</b>";
+    document.getElementById("tg_otp_box").style.display = "none";
+  } else {
+    el.innerHTML = "❌ <b style='color:#ef4444;'>Chưa đăng nhập</b> " +
+      (r.message ? `<span style='color:#888;'>(${r.message})</span>` : "");
+  }
+}
+
+async function tgConnect() {
+  await saveConfig();
+  document.getElementById("tg_auth_status").innerHTML = "⏳ Đang gửi mã OTP...";
+  const r = await api("/api/telegram/connect", "POST");
+  if (!r.success) { toast(r.message || "Lỗi", true); await tgCheckStatus(); return; }
+  if (r.authorized) {
+    toast("Đã đăng nhập sẵn");
+    await tgCheckStatus();
+    return;
+  }
+  document.getElementById("tg_otp_box").style.display = "block";
+  document.getElementById("tg_auth_status").innerHTML =
+    "📩 <b style='color:#f59e0b;'>Đã gửi OTP — kiểm tra Telegram app</b>";
+  toast(r.message || "Đã gửi OTP");
+}
+
+async function tgVerify() {
+  const code = document.getElementById("tg_code").value.trim();
+  const password = document.getElementById("tg_password").value;
+  if (!code) { toast("Nhập mã OTP", true); return; }
+  const r = await api("/api/telegram/verify", "POST", { code, password });
+  if (r.success && r.authorized) {
+    toast("✅ Đăng nhập thành công");
+    document.getElementById("tg_code").value = "";
+    document.getElementById("tg_password").value = "";
+    await tgCheckStatus();
+  } else if (r.need_password) {
+    toast("Tài khoản bật 2FA, nhập mật khẩu rồi xác minh lại", true);
+  } else {
+    toast(r.message || "Lỗi xác minh", true);
+  }
+}
+
+async function refresh() {
+  try {
+    const s = await api("/api/status");
+    const sEl = document.getElementById("status");
+    sEl.textContent = s.running ? "ON" : "OFF";
+    sEl.className = "status " + (s.running ? "on" : "off");
+    document.getElementById("contracts").textContent = s.mexc_contracts;
+    document.getElementById("processed").textContent = s.processed_coins;
+
+    const logs = await api("/api/logs");
+    const logEl = document.getElementById("logs");
+    const wasBottom = logEl.scrollTop + logEl.clientHeight >= logEl.scrollHeight - 20;
+    logEl.innerHTML = logs.map(l =>
+      `<div class="log-line ${l.level}">[${l.time}] ${l.msg}</div>`
+    ).join("");
+    if (wasBottom) logEl.scrollTop = logEl.scrollHeight;
+
+    const sig = await api("/api/signals");
+    document.getElementById("signals_body").innerHTML = sig.slice().reverse().map(s => `
+      <tr>
+        <td>${s.time}</td>
+        <td><b>${s.coin}</b></td>
+        <td>${s.symbol || "-"}</td>
+        <td><span class="pill ${s.executed ? "ok" : "no"}">${s.executed ? "YES" : "NO"}</span></td>
+        <td>${s.entry_price ?? "-"}</td>
+        <td>${s.tp_price ?? "-"}</td>
+        <td>${s.sl_price ?? "-"}</td>
+        <td>${s.vol ?? "-"}</td>
+        <td>${s.message || ""}</td>
+      </tr>`).join("");
+  } catch (e) {
+    console.error(e);
+  }
+}
+
+async function refreshPositions() {
+  try {
+    const positions = await api("/api/positions");
+    const body = document.getElementById("positions_body");
+    if (!positions || positions.length === 0) {
+      body.innerHTML = '<tr><td colspan="11" style="text-align:center; color:#666;">Chưa có vị thế</td></tr>';
+      return;
+    }
+    body.innerHTML = positions.map(p => {
+      const pnl = parseFloat(p.unrealized_pnl ?? 0);
+      const pnlColor = pnl > 0 ? '#16a34a' : pnl < 0 ? '#dc2626' : '#666';
+      const sideClass = p.side === 'LONG' ? 'ok' : 'no';
+      return `
+      <tr>
+        <td><b>${p.symbol}</b></td>
+        <td><span class="pill ${sideClass}">${p.side}</span></td>
+        <td>${p.leverage ?? '-'}x</td>
+        <td>${p.hold_vol ?? '-'}</td>
+        <td>${p.entry_price ?? '-'}</td>
+        <td>${p.mark_price ?? '-'}</td>
+        <td style="color:#16a34a;">${p.tp_price ?? '-'}</td>
+        <td style="color:#dc2626;">${p.sl_price ?? '-'}</td>
+        <td>${p.margin ?? '-'}</td>
+        <td style="color:${pnlColor}; font-weight:bold;">${pnl.toFixed(4)}</td>
+        <td><button onclick="closePos('${p.symbol}')" style="background:#dc2626; padding:5px 12px;">Đóng</button></td>
+      </tr>`;
+    }).join("");
+  } catch (e) {
+    console.error(e);
+  }
+}
+
+async function closePos(symbol) {
+  if (!confirm(`Đóng vị thế ${symbol}? (Sẽ hủy luôn TP/SL còn lại)`)) return;
+  try {
+    const r = await fetch("/api/positions/close", {
+      method: "POST",
+      headers: {"Content-Type": "application/json"},
+      body: JSON.stringify({symbol})
+    });
+    const data = await r.json();
+    if (data.success) {
+      alert(`✅ Đã đóng ${symbol}`);
+      refreshPositions();
+    } else {
+      alert(`❌ Fail: ${data.message || JSON.stringify(data)}`);
+    }
+  } catch (e) {
+    alert("Lỗi: " + e);
+  }
+}
+
+loadConfig();
+refresh();
+refreshPositions();
+setInterval(refresh, 1500);
+setInterval(refreshPositions, 3000);
+setTimeout(tgCheckStatus, 800);
+</script>
+</body>
+</html>

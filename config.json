@@ -1,0 +1,26 @@
+{
+  "telegram": {
+    "api_id": 33595319,
+    "api_hash": "9aa4f7bce65376158d354892c27e8943",
+    "phone": "+84398062615",
+    "session_name": "my_session",
+    "target_groups": [
+      "@BWEnews"
+    ]
+  },
+  "mexc": {
+    "api_key": "mx0vglRB1QAFmFuLmT",
+    "api_secret": "cd48d35264cc4938bef422047e0be557",
+    "uid": "WEBbc648b5bb24912fa6dcc377eea3479a80239f6fb57f296818764921383f5ae75",
+    "proxy": "http://VN692161:lUzB1x9n@103.99.2.169:20211",
+    "leverage": 10,
+    "margin_type": "isolated",
+    "position_size_usdt": 2,
+    "tp_percent": 5,
+    "sl_percent": 2
+  },
+  "trading": {
+    "enabled": true,
+    "auto_long_on_signal": true
+  }
+}

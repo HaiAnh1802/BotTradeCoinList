@@ -1,0 +1,4442 @@
+[
+  {
+    "symbol": "0G_USDT",
+    "baseCoin": "0G",
+    "state": 0
+  },
+  {
+    "symbol": "1000000BABYDOGE_USDT",
+    "baseCoin": "1000000BABYDOGE",
+    "state": 0
+  },
+  {
+    "symbol": "1000000MOG_USDT",
+    "baseCoin": "1000000MOG",
+    "state": 0
+  },
+  {
+    "symbol": "1000BONK_USDC",
+    "baseCoin": "1000BONK",
+    "state": 0
+  },
+  {
+    "symbol": "1000BONK_USDT",
+    "baseCoin": "1000BONK",
+    "state": 0
+  },
+  {
+    "symbol": "1000BTT_USDT",
+    "baseCoin": "1000BTT",
+    "state": 0
+  },
+  {
+    "symbol": "1000RATS_USDT",
+    "baseCoin": "1000RATS",
+    "state": 0
+  },
+  {
+    "symbol": "1INCH_USDT",
+    "baseCoin": "1INCH",
+    "state": 0
+  },
+  {
+    "symbol": "2Z_USDT",
+    "baseCoin": "2Z",
+    "state": 0
+  },
+  {
+    "symbol": "4_USDT",
+    "baseCoin": "4",
+    "state": 0
+  },
+  {
+    "symbol": "AAPLSTOCK_USDT",
+    "baseCoin": "AAPLSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "AAVE_USD1",
+    "baseCoin": "AAVE",
+    "state": 0
+  },
+  {
+    "symbol": "AAVE_USDC",
+    "baseCoin": "AAVE",
+    "state": 0
+  },
+  {
+    "symbol": "AAVE_USDT",
+    "baseCoin": "AAVE",
+    "state": 0
+  },
+  {
+    "symbol": "ABBVSTOCK_USDT",
+    "baseCoin": "ABBVSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "ABTSTOCK_USDT",
+    "baseCoin": "ABTSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "ACE_USDT",
+    "baseCoin": "ACE",
+    "state": 0
+  },
+  {
+    "symbol": "ACHRSTOCK_USDT",
+    "baseCoin": "ACHRSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "ACH_USDT",
+    "baseCoin": "ACH",
+    "state": 0
+  },
+  {
+    "symbol": "ACNSTOCK_USDT",
+    "baseCoin": "ACNSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "ACT_USDT",
+    "baseCoin": "ACT",
+    "state": 0
+  },
+  {
+    "symbol": "ACU_USDT",
+    "baseCoin": "ACU",
+    "state": 0
+  },
+  {
+    "symbol": "ACX_USDT",
+    "baseCoin": "ACX",
+    "state": 0
+  },
+  {
+    "symbol": "ADA_USD",
+    "baseCoin": "ADA",
+    "state": 0
+  },
+  {
+    "symbol": "ADA_USD1",
+    "baseCoin": "ADA",
+    "state": 0
+  },
+  {
+    "symbol": "ADA_USDC",
+    "baseCoin": "ADA",
+    "state": 0
+  },
+  {
+    "symbol": "ADA_USDT",
+    "baseCoin": "ADA",
+    "state": 0
+  },
+  {
+    "symbol": "ADBESTOCK_USDT",
+    "baseCoin": "ADBESTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "ADI_USDT",
+    "baseCoin": "ADI",
+    "state": 0
+  },
+  {
+    "symbol": "AERO_USDT",
+    "baseCoin": "AERO",
+    "state": 0
+  },
+  {
+    "symbol": "AEVO_USDC",
+    "baseCoin": "AEVO",
+    "state": 0
+  },
+  {
+    "symbol": "AEVO_USDT",
+    "baseCoin": "AEVO",
+    "state": 0
+  },
+  {
+    "symbol": "AGI_USDT",
+    "baseCoin": "AGI",
+    "state": 0
+  },
+  {
+    "symbol": "AGLD_USDT",
+    "baseCoin": "AGLD",
+    "state": 0
+  },
+  {
+    "symbol": "AGT_USDT",
+    "baseCoin": "AGT",
+    "state": 0
+  },
+  {
+    "symbol": "AIA_USDT",
+    "baseCoin": "AIA",
+    "state": 0
+  },
+  {
+    "symbol": "AIGENSYN_USDT",
+    "baseCoin": "AIGENSYN",
+    "state": 0
+  },
+  {
+    "symbol": "AIN_USDT",
+    "baseCoin": "AIN",
+    "state": 0
+  },
+  {
+    "symbol": "AIOT_USDT",
+    "baseCoin": "AIOT",
+    "state": 0
+  },
+  {
+    "symbol": "AIOZ_USDT",
+    "baseCoin": "AIOZ",
+    "state": 0
+  },
+  {
+    "symbol": "AIO_USDT",
+    "baseCoin": "AIO",
+    "state": 0
+  },
+  {
+    "symbol": "AIXBT_USDT",
+    "baseCoin": "AIXBT",
+    "state": 0
+  },
+  {
+    "symbol": "AKE_USDT",
+    "baseCoin": "AKE",
+    "state": 0
+  },
+  {
+    "symbol": "AKT_USDT",
+    "baseCoin": "AKT",
+    "state": 0
+  },
+  {
+    "symbol": "ALBSTOCK_USDT",
+    "baseCoin": "ALBSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "ALCH_USDT",
+    "baseCoin": "ALCH",
+    "state": 0
+  },
+  {
+    "symbol": "ALEO_USDT",
+    "baseCoin": "ALEO",
+    "state": 0
+  },
+  {
+    "symbol": "ALGO_USDT",
+    "baseCoin": "ALGO",
+    "state": 0
+  },
+  {
+    "symbol": "ALICE_USDT",
+    "baseCoin": "ALICE",
+    "state": 0
+  },
+  {
+    "symbol": "ALLO_USDT",
+    "baseCoin": "ALLO",
+    "state": 0
+  },
+  {
+    "symbol": "ALL_USDT",
+    "baseCoin": "ALL",
+    "state": 0
+  },
+  {
+    "symbol": "ALPINE_USDT",
+    "baseCoin": "ALPINE",
+    "state": 0
+  },
+  {
+    "symbol": "ALT_USDT",
+    "baseCoin": "ALT",
+    "state": 0
+  },
+  {
+    "symbol": "ALUMINUM_USDT",
+    "baseCoin": "ALUMINUM",
+    "state": 4
+  },
+  {
+    "symbol": "AMATSTOCK_USDT",
+    "baseCoin": "AMATSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "AMDSTOCK_USDT",
+    "baseCoin": "AMDSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "AMP_USDT",
+    "baseCoin": "AMP",
+    "state": 0
+  },
+  {
+    "symbol": "AMZNSTOCK_USDT",
+    "baseCoin": "AMZNSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "ANIME_USDT",
+    "baseCoin": "ANIME",
+    "state": 0
+  },
+  {
+    "symbol": "ANKR_USDT",
+    "baseCoin": "ANKR",
+    "state": 0
+  },
+  {
+    "symbol": "ANTHROPIC_USDT",
+    "baseCoin": "ANTHROPIC",
+    "state": 0
+  },
+  {
+    "symbol": "APEX_USDT",
+    "baseCoin": "APEX",
+    "state": 0
+  },
+  {
+    "symbol": "APE_USDT",
+    "baseCoin": "APE",
+    "state": 0
+  },
+  {
+    "symbol": "API3_USDT",
+    "baseCoin": "API3",
+    "state": 0
+  },
+  {
+    "symbol": "APR_USDT",
+    "baseCoin": "APR",
+    "state": 0
+  },
+  {
+    "symbol": "APT_USDC",
+    "baseCoin": "APT",
+    "state": 0
+  },
+  {
+    "symbol": "APT_USDT",
+    "baseCoin": "APT",
+    "state": 0
+  },
+  {
+    "symbol": "ARB_USD1",
+    "baseCoin": "ARB",
+    "state": 0
+  },
+  {
+    "symbol": "ARB_USDC",
+    "baseCoin": "ARB",
+    "state": 0
+  },
+  {
+    "symbol": "ARB_USDT",
+    "baseCoin": "ARB",
+    "state": 0
+  },
+  {
+    "symbol": "ARCSOL_USDT",
+    "baseCoin": "ARCSOL",
+    "state": 0
+  },
+  {
+    "symbol": "ARIA_USDT",
+    "baseCoin": "ARIA",
+    "state": 0
+  },
+  {
+    "symbol": "ARKM_USDT",
+    "baseCoin": "ARKM",
+    "state": 0
+  },
+  {
+    "symbol": "ARK_USDT",
+    "baseCoin": "ARK",
+    "state": 0
+  },
+  {
+    "symbol": "ARMSTOCK_USDT",
+    "baseCoin": "ARMSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "ARPA_USDT",
+    "baseCoin": "ARPA",
+    "state": 0
+  },
+  {
+    "symbol": "AR_USDT",
+    "baseCoin": "AR",
+    "state": 0
+  },
+  {
+    "symbol": "ASMLSTOCK_USDT",
+    "baseCoin": "ASMLSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "ASP_USDT",
+    "baseCoin": "ASP",
+    "state": 0
+  },
+  {
+    "symbol": "ASR_USDT",
+    "baseCoin": "ASR",
+    "state": 0
+  },
+  {
+    "symbol": "ASTEROID1_USDT",
+    "baseCoin": "ASTEROID1",
+    "state": 0
+  },
+  {
+    "symbol": "ASTEROID_USDT",
+    "baseCoin": "ASTEROID",
+    "state": 0
+  },
+  {
+    "symbol": "ASTER_USD1",
+    "baseCoin": "ASTER",
+    "state": 0
+  },
+  {
+    "symbol": "ASTER_USDT",
+    "baseCoin": "ASTER",
+    "state": 0
+  },
+  {
+    "symbol": "ASTR_USDT",
+    "baseCoin": "ASTR",
+    "state": 0
+  },
+  {
+    "symbol": "ASTSSTOCK_USDT",
+    "baseCoin": "ASTSSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "ATA_USDT",
+    "baseCoin": "ATA",
+    "state": 0
+  },
+  {
+    "symbol": "ATH_USDT",
+    "baseCoin": "ATH",
+    "state": 0
+  },
+  {
+    "symbol": "ATOM_USDT",
+    "baseCoin": "ATOM",
+    "state": 0
+  },
+  {
+    "symbol": "AT_USDT",
+    "baseCoin": "AT",
+    "state": 0
+  },
+  {
+    "symbol": "AUCTION_USDT",
+    "baseCoin": "AUCTION",
+    "state": 0
+  },
+  {
+    "symbol": "AUDIO_USDT",
+    "baseCoin": "AUDIO",
+    "state": 0
+  },
+  {
+    "symbol": "AUD_USDT",
+    "baseCoin": "AUD",
+    "state": 0
+  },
+  {
+    "symbol": "AURASOL_USDT",
+    "baseCoin": "AURASOL",
+    "state": 0
+  },
+  {
+    "symbol": "AVAAI_USDT",
+    "baseCoin": "AVAAI",
+    "state": 0
+  },
+  {
+    "symbol": "AVAX_USD",
+    "baseCoin": "AVAX",
+    "state": 0
+  },
+  {
+    "symbol": "AVAX_USD1",
+    "baseCoin": "AVAX",
+    "state": 0
+  },
+  {
+    "symbol": "AVAX_USDC",
+    "baseCoin": "AVAX",
+    "state": 0
+  },
+  {
+    "symbol": "AVAX_USDT",
+    "baseCoin": "AVAX",
+    "state": 0
+  },
+  {
+    "symbol": "AVA_USDT",
+    "baseCoin": "AVA",
+    "state": 0
+  },
+  {
+    "symbol": "AVGOSTOCK_USDT",
+    "baseCoin": "AVGOSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "AVICI_USDT",
+    "baseCoin": "AVICI",
+    "state": 0
+  },
+  {
+    "symbol": "AVNT_USDT",
+    "baseCoin": "AVNT",
+    "state": 0
+  },
+  {
+    "symbol": "AWE_USDT",
+    "baseCoin": "AWE",
+    "state": 0
+  },
+  {
+    "symbol": "AXL_USDT",
+    "baseCoin": "AXL",
+    "state": 0
+  },
+  {
+    "symbol": "AXS_USDT",
+    "baseCoin": "AXS",
+    "state": 0
+  },
+  {
+    "symbol": "AZTEC_USDT",
+    "baseCoin": "AZTEC",
+    "state": 0
+  },
+  {
+    "symbol": "A_USDT",
+    "baseCoin": "A",
+    "state": 0
+  },
+  {
+    "symbol": "B2_USDT",
+    "baseCoin": "B2",
+    "state": 0
+  },
+  {
+    "symbol": "B3_USDT",
+    "baseCoin": "B3",
+    "state": 0
+  },
+  {
+    "symbol": "BABASTOCK_USDT",
+    "baseCoin": "BABASTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "BABY_USDT",
+    "baseCoin": "BABY",
+    "state": 0
+  },
+  {
+    "symbol": "BACSTOCK_USDT",
+    "baseCoin": "BACSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "BANANAS31_USDT",
+    "baseCoin": "BANANAS31",
+    "state": 0
+  },
+  {
+    "symbol": "BANANA_USDT",
+    "baseCoin": "BANANA",
+    "state": 0
+  },
+  {
+    "symbol": "BAND_USDT",
+    "baseCoin": "BAND",
+    "state": 0
+  },
+  {
+    "symbol": "BANK_USDT",
+    "baseCoin": "BANK",
+    "state": 0
+  },
+  {
+    "symbol": "BAN_USDT",
+    "baseCoin": "BAN",
+    "state": 0
+  },
+  {
+    "symbol": "BARD_USDT",
+    "baseCoin": "BARD",
+    "state": 0
+  },
+  {
+    "symbol": "BAR_USDT",
+    "baseCoin": "BAR",
+    "state": 0
+  },
+  {
+    "symbol": "BASED_USDT",
+    "baseCoin": "BASED",
+    "state": 0
+  },
+  {
+    "symbol": "BASTOCK_USDT",
+    "baseCoin": "BASTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "BAS_USDT",
+    "baseCoin": "BAS",
+    "state": 0
+  },
+  {
+    "symbol": "BAT_USDT",
+    "baseCoin": "BAT",
+    "state": 0
+  },
+  {
+    "symbol": "BBAISTOCK_USDT",
+    "baseCoin": "BBAISTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "BB_USDT",
+    "baseCoin": "BB",
+    "state": 0
+  },
+  {
+    "symbol": "BCH_USD1",
+    "baseCoin": "BCH",
+    "state": 0
+  },
+  {
+    "symbol": "BCH_USDC",
+    "baseCoin": "BCH",
+    "state": 0
+  },
+  {
+    "symbol": "BCH_USDT",
+    "baseCoin": "BCH",
+    "state": 0
+  },
+  {
+    "symbol": "BDX_USDT",
+    "baseCoin": "BDX",
+    "state": 0
+  },
+  {
+    "symbol": "BEAMX_USDT",
+    "baseCoin": "BEAMX",
+    "state": 0
+  },
+  {
+    "symbol": "BEAT_USDT",
+    "baseCoin": "BEAT",
+    "state": 0
+  },
+  {
+    "symbol": "BELIEF_USDT",
+    "baseCoin": "BELIEF",
+    "state": 0
+  },
+  {
+    "symbol": "BEL_USDT",
+    "baseCoin": "BEL",
+    "state": 0
+  },
+  {
+    "symbol": "BERA_USDT",
+    "baseCoin": "BERA",
+    "state": 0
+  },
+  {
+    "symbol": "BIANRENSHENG_USDT",
+    "baseCoin": "BIANRENSHENG",
+    "state": 0
+  },
+  {
+    "symbol": "BICO_USDT",
+    "baseCoin": "BICO",
+    "state": 0
+  },
+  {
+    "symbol": "BIGTIME_USDT",
+    "baseCoin": "BIGTIME",
+    "state": 0
+  },
+  {
+    "symbol": "BILL_USDT",
+    "baseCoin": "BILL",
+    "state": 0
+  },
+  {
+    "symbol": "BIO_USDC",
+    "baseCoin": "BIO",
+    "state": 0
+  },
+  {
+    "symbol": "BIO_USDT",
+    "baseCoin": "BIO",
+    "state": 0
+  },
+  {
+    "symbol": "BIRB_USDT",
+    "baseCoin": "BIRB",
+    "state": 0
+  },
+  {
+    "symbol": "BLAST_USDT",
+    "baseCoin": "BLAST",
+    "state": 0
+  },
+  {
+    "symbol": "BLEND_USDT",
+    "baseCoin": "BLEND",
+    "state": 0
+  },
+  {
+    "symbol": "BLESS_USDT",
+    "baseCoin": "BLESS",
+    "state": 0
+  },
+  {
+    "symbol": "BLOCK_USDT",
+    "baseCoin": "BLOCK",
+    "state": 0
+  },
+  {
+    "symbol": "BLUAI_USDT",
+    "baseCoin": "BLUAI",
+    "state": 0
+  },
+  {
+    "symbol": "BLUR_USDT",
+    "baseCoin": "BLUR",
+    "state": 0
+  },
+  {
+    "symbol": "BMNRSTOCK_USDT",
+    "baseCoin": "BMNRSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "BMT_USDT",
+    "baseCoin": "BMT",
+    "state": 0
+  },
+  {
+    "symbol": "BNB_USD1",
+    "baseCoin": "BNB",
+    "state": 0
+  },
+  {
+    "symbol": "BNB_USDC",
+    "baseCoin": "BNB",
+    "state": 0
+  },
+  {
+    "symbol": "BNB_USDT",
+    "baseCoin": "BNB",
+    "state": 0
+  },
+  {
+    "symbol": "BNT_USDT",
+    "baseCoin": "BNT",
+    "state": 0
+  },
+  {
+    "symbol": "BOBA_USDT",
+    "baseCoin": "BOBA",
+    "state": 0
+  },
+  {
+    "symbol": "BOME_USDC",
+    "baseCoin": "BOME",
+    "state": 0
+  },
+  {
+    "symbol": "BOME_USDT",
+    "baseCoin": "BOME",
+    "state": 0
+  },
+  {
+    "symbol": "BP_USDT",
+    "baseCoin": "BP",
+    "state": 0
+  },
+  {
+    "symbol": "BRETT_USDT",
+    "baseCoin": "BRETT",
+    "state": 0
+  },
+  {
+    "symbol": "BREV_USDT",
+    "baseCoin": "BREV",
+    "state": 0
+  },
+  {
+    "symbol": "BRL_USDT",
+    "baseCoin": "BRL",
+    "state": 0
+  },
+  {
+    "symbol": "BROCCOLIF3B_USDT",
+    "baseCoin": "BROCCOLIF3B",
+    "state": 0
+  },
+  {
+    "symbol": "BROCCOLI_USDT",
+    "baseCoin": "BROCCOLI",
+    "state": 0
+  },
+  {
+    "symbol": "BR_USDT",
+    "baseCoin": "BR",
+    "state": 0
+  },
+  {
+    "symbol": "BSB_USDT",
+    "baseCoin": "BSB",
+    "state": 0
+  },
+  {
+    "symbol": "BSV_USDT",
+    "baseCoin": "BSV",
+    "state": 0
+  },
+  {
+    "symbol": "BTC_USD",
+    "baseCoin": "BTC",
+    "state": 0
+  },
+  {
+    "symbol": "BTC_USD1",
+    "baseCoin": "BTC",
+    "state": 0
+  },
+  {
+    "symbol": "BTC_USDC",
+    "baseCoin": "BTC",
+    "state": 0
+  },
+  {
+    "symbol": "BTC_USDT",
+    "baseCoin": "BTC",
+    "state": 0
+  },
+  {
+    "symbol": "BTR_USDT",
+    "baseCoin": "BTR",
+    "state": 0
+  },
+  {
+    "symbol": "BTW_USDT",
+    "baseCoin": "BTW",
+    "state": 0
+  },
+  {
+    "symbol": "BTX_USDT",
+    "baseCoin": "BTX",
+    "state": 0
+  },
+  {
+    "symbol": "BUILDONBOB_USDT",
+    "baseCoin": "BUILDONBOB",
+    "state": 0
+  },
+  {
+    "symbol": "BULLA_USDT",
+    "baseCoin": "BULLA",
+    "state": 0
+  },
+  {
+    "symbol": "BULL_USDT",
+    "baseCoin": "BULL",
+    "state": 0
+  },
+  {
+    "symbol": "BUTTCOIN_USDT",
+    "baseCoin": "BUTTCOIN",
+    "state": 0
+  },
+  {
+    "symbol": "B_USDT",
+    "baseCoin": "B",
+    "state": 0
+  },
+  {
+    "symbol": "C98_USDT",
+    "baseCoin": "C98",
+    "state": 0
+  },
+  {
+    "symbol": "CAD_USDT",
+    "baseCoin": "CAD",
+    "state": 0
+  },
+  {
+    "symbol": "CAKE_USDT",
+    "baseCoin": "CAKE",
+    "state": 0
+  },
+  {
+    "symbol": "CARV_USDT",
+    "baseCoin": "CARV",
+    "state": 0
+  },
+  {
+    "symbol": "CATI_USDT",
+    "baseCoin": "CATI",
+    "state": 0
+  },
+  {
+    "symbol": "CAT_USDT",
+    "baseCoin": "CAT",
+    "state": 0
+  },
+  {
+    "symbol": "CC_USDT",
+    "baseCoin": "CC",
+    "state": 0
+  },
+  {
+    "symbol": "CELO_USDT",
+    "baseCoin": "CELO",
+    "state": 0
+  },
+  {
+    "symbol": "CELR_USDT",
+    "baseCoin": "CELR",
+    "state": 0
+  },
+  {
+    "symbol": "CETUS_USDT",
+    "baseCoin": "CETUS",
+    "state": 0
+  },
+  {
+    "symbol": "CFG_USDT",
+    "baseCoin": "CFG",
+    "state": 0
+  },
+  {
+    "symbol": "CFX_USDT",
+    "baseCoin": "CFX",
+    "state": 0
+  },
+  {
+    "symbol": "CGPT_USDT",
+    "baseCoin": "CGPT",
+    "state": 0
+  },
+  {
+    "symbol": "CHECK_USDT",
+    "baseCoin": "CHECK",
+    "state": 0
+  },
+  {
+    "symbol": "CHEEMS_USDT",
+    "baseCoin": "CHEEMS",
+    "state": 0
+  },
+  {
+    "symbol": "CHF_USDT",
+    "baseCoin": "CHF",
+    "state": 0
+  },
+  {
+    "symbol": "CHILLGUY_USDT",
+    "baseCoin": "CHILLGUY",
+    "state": 0
+  },
+  {
+    "symbol": "CHIP_USDT",
+    "baseCoin": "CHIP",
+    "state": 0
+  },
+  {
+    "symbol": "CHR_USDT",
+    "baseCoin": "CHR",
+    "state": 0
+  },
+  {
+    "symbol": "CHZ_USDT",
+    "baseCoin": "CHZ",
+    "state": 0
+  },
+  {
+    "symbol": "CKB_USDT",
+    "baseCoin": "CKB",
+    "state": 0
+  },
+  {
+    "symbol": "CLANKER_USDT",
+    "baseCoin": "CLANKER",
+    "state": 0
+  },
+  {
+    "symbol": "CLO_USDT",
+    "baseCoin": "CLO",
+    "state": 0
+  },
+  {
+    "symbol": "COAI_USDT",
+    "baseCoin": "COAI",
+    "state": 0
+  },
+  {
+    "symbol": "COHRSTOCK_USDT",
+    "baseCoin": "COHRSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "COINBASE_USDT",
+    "baseCoin": "COINBASE",
+    "state": 0
+  },
+  {
+    "symbol": "COLLECT_USDT",
+    "baseCoin": "COLLECT",
+    "state": 0
+  },
+  {
+    "symbol": "COMP_USDT",
+    "baseCoin": "COMP",
+    "state": 0
+  },
+  {
+    "symbol": "COOKIE_USDT",
+    "baseCoin": "COOKIE",
+    "state": 0
+  },
+  {
+    "symbol": "COPPER_USDT",
+    "baseCoin": "COPPER",
+    "state": 0
+  },
+  {
+    "symbol": "COPSTOCK_USDT",
+    "baseCoin": "COPSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "CORE_USDT",
+    "baseCoin": "CORE",
+    "state": 0
+  },
+  {
+    "symbol": "COSTSTOCK_USDT",
+    "baseCoin": "COSTSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "COS_USDT",
+    "baseCoin": "COS",
+    "state": 0
+  },
+  {
+    "symbol": "COTI_USDT",
+    "baseCoin": "COTI",
+    "state": 0
+  },
+  {
+    "symbol": "COW_USDT",
+    "baseCoin": "COW",
+    "state": 0
+  },
+  {
+    "symbol": "CRCLSTOCK_USDT",
+    "baseCoin": "CRCLSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "CRMSTOCK_USDT",
+    "baseCoin": "CRMSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "CROSS_USDT",
+    "baseCoin": "CROSS",
+    "state": 0
+  },
+  {
+    "symbol": "CRO_USDT",
+    "baseCoin": "CRO",
+    "state": 0
+  },
+  {
+    "symbol": "CRV_USDC",
+    "baseCoin": "CRV",
+    "state": 0
+  },
+  {
+    "symbol": "CRV_USDT",
+    "baseCoin": "CRV",
+    "state": 0
+  },
+  {
+    "symbol": "CRWDSTOCK_USDT",
+    "baseCoin": "CRWDSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "CRWVSTOCK_USDT",
+    "baseCoin": "CRWVSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "CSCOSTOCK_USDT",
+    "baseCoin": "CSCOSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "CSPR_USDT",
+    "baseCoin": "CSPR",
+    "state": 0
+  },
+  {
+    "symbol": "CSTOCK_USDT",
+    "baseCoin": "CSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "CTC_USDT",
+    "baseCoin": "CTC",
+    "state": 0
+  },
+  {
+    "symbol": "CTK_USDT",
+    "baseCoin": "CTK",
+    "state": 0
+  },
+  {
+    "symbol": "CTSI_USDT",
+    "baseCoin": "CTSI",
+    "state": 0
+  },
+  {
+    "symbol": "CVC_USDT",
+    "baseCoin": "CVC",
+    "state": 0
+  },
+  {
+    "symbol": "CVNASTOCK_USDT",
+    "baseCoin": "CVNASTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "CVXSTOCK_USDT",
+    "baseCoin": "CVXSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "CVX_USDT",
+    "baseCoin": "CVX",
+    "state": 0
+  },
+  {
+    "symbol": "CYBER_USDT",
+    "baseCoin": "CYBER",
+    "state": 0
+  },
+  {
+    "symbol": "CYPR_USDT",
+    "baseCoin": "CYPR",
+    "state": 0
+  },
+  {
+    "symbol": "CYS_USDT",
+    "baseCoin": "CYS",
+    "state": 0
+  },
+  {
+    "symbol": "C_USDT",
+    "baseCoin": "C",
+    "state": 0
+  },
+  {
+    "symbol": "DASH_USDT",
+    "baseCoin": "DASH",
+    "state": 0
+  },
+  {
+    "symbol": "DBR_USDT",
+    "baseCoin": "DBR",
+    "state": 0
+  },
+  {
+    "symbol": "DEEP_USDT",
+    "baseCoin": "DEEP",
+    "state": 0
+  },
+  {
+    "symbol": "DEGEN_USDT",
+    "baseCoin": "DEGEN",
+    "state": 0
+  },
+  {
+    "symbol": "DIA_USDT",
+    "baseCoin": "DIA",
+    "state": 0
+  },
+  {
+    "symbol": "DODO_USDT",
+    "baseCoin": "DODO",
+    "state": 0
+  },
+  {
+    "symbol": "DOGE_USD",
+    "baseCoin": "DOGE",
+    "state": 0
+  },
+  {
+    "symbol": "DOGE_USD1",
+    "baseCoin": "DOGE",
+    "state": 0
+  },
+  {
+    "symbol": "DOGE_USDC",
+    "baseCoin": "DOGE",
+    "state": 0
+  },
+  {
+    "symbol": "DOGE_USDT",
+    "baseCoin": "DOGE",
+    "state": 0
+  },
+  {
+    "symbol": "DOGS_USDT",
+    "baseCoin": "DOGS",
+    "state": 0
+  },
+  {
+    "symbol": "DOG_USDT",
+    "baseCoin": "DOG",
+    "state": 0
+  },
+  {
+    "symbol": "DOLO_USDT",
+    "baseCoin": "DOLO",
+    "state": 0
+  },
+  {
+    "symbol": "DOOD_USDT",
+    "baseCoin": "DOOD",
+    "state": 0
+  },
+  {
+    "symbol": "DOT_USD1",
+    "baseCoin": "DOT",
+    "state": 0
+  },
+  {
+    "symbol": "DOT_USDC",
+    "baseCoin": "DOT",
+    "state": 0
+  },
+  {
+    "symbol": "DOT_USDT",
+    "baseCoin": "DOT",
+    "state": 0
+  },
+  {
+    "symbol": "DRAM_USDT",
+    "baseCoin": "DRAM",
+    "state": 0
+  },
+  {
+    "symbol": "DRIFT_USDT",
+    "baseCoin": "DRIFT",
+    "state": 0
+  },
+  {
+    "symbol": "DSYNC_USDT",
+    "baseCoin": "DSYNC",
+    "state": 0
+  },
+  {
+    "symbol": "DUSK_USDT",
+    "baseCoin": "DUSK",
+    "state": 0
+  },
+  {
+    "symbol": "DYDX_USDT",
+    "baseCoin": "DYDX",
+    "state": 0
+  },
+  {
+    "symbol": "DYM_USDT",
+    "baseCoin": "DYM",
+    "state": 0
+  },
+  {
+    "symbol": "D_USDT",
+    "baseCoin": "D",
+    "state": 0
+  },
+  {
+    "symbol": "EDEN_USDT",
+    "baseCoin": "EDEN",
+    "state": 0
+  },
+  {
+    "symbol": "EDGE_USDT",
+    "baseCoin": "EDGE",
+    "state": 0
+  },
+  {
+    "symbol": "EDU_USDT",
+    "baseCoin": "EDU",
+    "state": 0
+  },
+  {
+    "symbol": "EGLD_USDT",
+    "baseCoin": "EGLD",
+    "state": 0
+  },
+  {
+    "symbol": "EIGEN_USDC",
+    "baseCoin": "EIGEN",
+    "state": 0
+  },
+  {
+    "symbol": "EIGEN_USDT",
+    "baseCoin": "EIGEN",
+    "state": 0
+  },
+  {
+    "symbol": "ELIZAOS_USDT",
+    "baseCoin": "ELIZAOS",
+    "state": 0
+  },
+  {
+    "symbol": "ELSA_USDT",
+    "baseCoin": "ELSA",
+    "state": 0
+  },
+  {
+    "symbol": "ENA_USD1",
+    "baseCoin": "ENA",
+    "state": 0
+  },
+  {
+    "symbol": "ENA_USDC",
+    "baseCoin": "ENA",
+    "state": 0
+  },
+  {
+    "symbol": "ENA_USDT",
+    "baseCoin": "ENA",
+    "state": 0
+  },
+  {
+    "symbol": "ENJ_USDT",
+    "baseCoin": "ENJ",
+    "state": 0
+  },
+  {
+    "symbol": "ENSO_USDT",
+    "baseCoin": "ENSO",
+    "state": 0
+  },
+  {
+    "symbol": "ENS_USDT",
+    "baseCoin": "ENS",
+    "state": 0
+  },
+  {
+    "symbol": "EPIC_USDT",
+    "baseCoin": "EPIC",
+    "state": 0
+  },
+  {
+    "symbol": "ERA_USDT",
+    "baseCoin": "ERA",
+    "state": 0
+  },
+  {
+    "symbol": "ESPORTS_USDT",
+    "baseCoin": "ESPORTS",
+    "state": 0
+  },
+  {
+    "symbol": "ESP_USDT",
+    "baseCoin": "ESP",
+    "state": 0
+  },
+  {
+    "symbol": "ES_USDT",
+    "baseCoin": "ES",
+    "state": 0
+  },
+  {
+    "symbol": "ETC_USDC",
+    "baseCoin": "ETC",
+    "state": 0
+  },
+  {
+    "symbol": "ETC_USDT",
+    "baseCoin": "ETC",
+    "state": 0
+  },
+  {
+    "symbol": "ETHFI_USDC",
+    "baseCoin": "ETHFI",
+    "state": 0
+  },
+  {
+    "symbol": "ETHFI_USDT",
+    "baseCoin": "ETHFI",
+    "state": 0
+  },
+  {
+    "symbol": "ETHW_USDT",
+    "baseCoin": "ETHW",
+    "state": 0
+  },
+  {
+    "symbol": "ETH_USD",
+    "baseCoin": "ETH",
+    "state": 0
+  },
+  {
+    "symbol": "ETH_USD1",
+    "baseCoin": "ETH",
+    "state": 0
+  },
+  {
+    "symbol": "ETH_USDC",
+    "baseCoin": "ETH",
+    "state": 0
+  },
+  {
+    "symbol": "ETH_USDT",
+    "baseCoin": "ETH",
+    "state": 0
+  },
+  {
+    "symbol": "EUL_USDT",
+    "baseCoin": "EUL",
+    "state": 0
+  },
+  {
+    "symbol": "EUR_USDT",
+    "baseCoin": "EUR",
+    "state": 0
+  },
+  {
+    "symbol": "EVAA_USDT",
+    "baseCoin": "EVAA",
+    "state": 0
+  },
+  {
+    "symbol": "EWJ_USDT",
+    "baseCoin": "EWJ",
+    "state": 0
+  },
+  {
+    "symbol": "EWY_USDT",
+    "baseCoin": "EWY",
+    "state": 0
+  },
+  {
+    "symbol": "FAI_USDT",
+    "baseCoin": "FAI",
+    "state": 0
+  },
+  {
+    "symbol": "FARM_USDT",
+    "baseCoin": "FARM",
+    "state": 0
+  },
+  {
+    "symbol": "FARTCOIN_USDC",
+    "baseCoin": "FARTCOIN",
+    "state": 0
+  },
+  {
+    "symbol": "FARTCOIN_USDT",
+    "baseCoin": "FARTCOIN",
+    "state": 0
+  },
+  {
+    "symbol": "FET_USDT",
+    "baseCoin": "FET",
+    "state": 0
+  },
+  {
+    "symbol": "FF_USDT",
+    "baseCoin": "FF",
+    "state": 0
+  },
+  {
+    "symbol": "FHE_USDT",
+    "baseCoin": "FHE",
+    "state": 0
+  },
+  {
+    "symbol": "FIDA_USDT",
+    "baseCoin": "FIDA",
+    "state": 0
+  },
+  {
+    "symbol": "FIGHT_USDT",
+    "baseCoin": "FIGHT",
+    "state": 0
+  },
+  {
+    "symbol": "FIGSTOCK_USDT",
+    "baseCoin": "FIGSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "FILECOIN_USDT",
+    "baseCoin": "FILECOIN",
+    "state": 0
+  },
+  {
+    "symbol": "FIL_USDC",
+    "baseCoin": "FIL",
+    "state": 0
+  },
+  {
+    "symbol": "FLOCK_USDT",
+    "baseCoin": "FLOCK",
+    "state": 0
+  },
+  {
+    "symbol": "FLOKI_USDT",
+    "baseCoin": "FLOKI",
+    "state": 0
+  },
+  {
+    "symbol": "FLORK_USDT",
+    "baseCoin": "FLORK",
+    "state": 0
+  },
+  {
+    "symbol": "FLOW_USDT",
+    "baseCoin": "FLOW",
+    "state": 0
+  },
+  {
+    "symbol": "FLR_USDT",
+    "baseCoin": "FLR",
+    "state": 0
+  },
+  {
+    "symbol": "FLUID_USDT",
+    "baseCoin": "FLUID",
+    "state": 0
+  },
+  {
+    "symbol": "FLUX_USDT",
+    "baseCoin": "FLUX",
+    "state": 0
+  },
+  {
+    "symbol": "FOGO_USDT",
+    "baseCoin": "FOGO",
+    "state": 0
+  },
+  {
+    "symbol": "FOLKS_USDT",
+    "baseCoin": "FOLKS",
+    "state": 0
+  },
+  {
+    "symbol": "FORM_USDT",
+    "baseCoin": "FORM",
+    "state": 0
+  },
+  {
+    "symbol": "FRAX_USDT",
+    "baseCoin": "FRAX",
+    "state": 0
+  },
+  {
+    "symbol": "FTT_USDT",
+    "baseCoin": "FTT",
+    "state": 0
+  },
+  {
+    "symbol": "FUTUSTOCK_USDT",
+    "baseCoin": "FUTUSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "F_USDT",
+    "baseCoin": "F",
+    "state": 0
+  },
+  {
+    "symbol": "GAIB_USDT",
+    "baseCoin": "GAIB",
+    "state": 0
+  },
+  {
+    "symbol": "GALA_USDT",
+    "baseCoin": "GALA",
+    "state": 0
+  },
+  {
+    "symbol": "GAS_USDT",
+    "baseCoin": "GAS",
+    "state": 0
+  },
+  {
+    "symbol": "GBP_USDT",
+    "baseCoin": "GBP",
+    "state": 0
+  },
+  {
+    "symbol": "GENIUS_USDT",
+    "baseCoin": "GENIUS",
+    "state": 0
+  },
+  {
+    "symbol": "GESTOCK_USDT",
+    "baseCoin": "GESTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "GEVSTOCK_USDT",
+    "baseCoin": "GEVSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "GIGA_USDT",
+    "baseCoin": "GIGA",
+    "state": 0
+  },
+  {
+    "symbol": "GIGGLE_USDT",
+    "baseCoin": "GIGGLE",
+    "state": 0
+  },
+  {
+    "symbol": "GLM_USDT",
+    "baseCoin": "GLM",
+    "state": 0
+  },
+  {
+    "symbol": "GMESTOCK_USDT",
+    "baseCoin": "GMESTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "GMT_USDT",
+    "baseCoin": "GMT",
+    "state": 0
+  },
+  {
+    "symbol": "GMX_USDT",
+    "baseCoin": "GMX",
+    "state": 0
+  },
+  {
+    "symbol": "GNO_USDT",
+    "baseCoin": "GNO",
+    "state": 0
+  },
+  {
+    "symbol": "GOAT_USDT",
+    "baseCoin": "GOAT",
+    "state": 0
+  },
+  {
+    "symbol": "GODS_USDT",
+    "baseCoin": "GODS",
+    "state": 0
+  },
+  {
+    "symbol": "GONGJIAN_USDT",
+    "baseCoin": "GONGJIAN",
+    "state": 0
+  },
+  {
+    "symbol": "GOOGLSTOCK_USDT",
+    "baseCoin": "GOOGLSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "GPS_USDT",
+    "baseCoin": "GPS",
+    "state": 0
+  },
+  {
+    "symbol": "GRASS_USDT",
+    "baseCoin": "GRASS",
+    "state": 0
+  },
+  {
+    "symbol": "GRIFFAIN_USDT",
+    "baseCoin": "GRIFFAIN",
+    "state": 0
+  },
+  {
+    "symbol": "GRT_USDT",
+    "baseCoin": "GRT",
+    "state": 0
+  },
+  {
+    "symbol": "GSSTOCK_USDT",
+    "baseCoin": "GSSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "GUA_USDT",
+    "baseCoin": "GUA",
+    "state": 0
+  },
+  {
+    "symbol": "GUN_USDT",
+    "baseCoin": "GUN",
+    "state": 0
+  },
+  {
+    "symbol": "GWEI_USDT",
+    "baseCoin": "GWEI",
+    "state": 0
+  },
+  {
+    "symbol": "G_USDT",
+    "baseCoin": "G",
+    "state": 0
+  },
+  {
+    "symbol": "HAEDAL_USDT",
+    "baseCoin": "HAEDAL",
+    "state": 0
+  },
+  {
+    "symbol": "HAJIMI_USDT",
+    "baseCoin": "HAJIMI",
+    "state": 0
+  },
+  {
+    "symbol": "HANA_USDT",
+    "baseCoin": "HANA",
+    "state": 0
+  },
+  {
+    "symbol": "HARRY_USDT",
+    "baseCoin": "HARRY",
+    "state": 0
+  },
+  {
+    "symbol": "HBAR_USDC",
+    "baseCoin": "HBAR",
+    "state": 0
+  },
+  {
+    "symbol": "HBAR_USDT",
+    "baseCoin": "HBAR",
+    "state": 0
+  },
+  {
+    "symbol": "HEI_USDT",
+    "baseCoin": "HEI",
+    "state": 0
+  },
+  {
+    "symbol": "HEMI_USDT",
+    "baseCoin": "HEMI",
+    "state": 0
+  },
+  {
+    "symbol": "HFT_USDT",
+    "baseCoin": "HFT",
+    "state": 0
+  },
+  {
+    "symbol": "HIGH_USDT",
+    "baseCoin": "HIGH",
+    "state": 0
+  },
+  {
+    "symbol": "HIMSSTOCK_USDT",
+    "baseCoin": "HIMSSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "HIVE_USDT",
+    "baseCoin": "HIVE",
+    "state": 0
+  },
+  {
+    "symbol": "HK50_USDT",
+    "baseCoin": "HK50",
+    "state": 4
+  },
+  {
+    "symbol": "HMSTR_USDT",
+    "baseCoin": "HMSTR",
+    "state": 0
+  },
+  {
+    "symbol": "HNT_USDT",
+    "baseCoin": "HNT",
+    "state": 0
+  },
+  {
+    "symbol": "HOLO_USDT",
+    "baseCoin": "HOLO",
+    "state": 0
+  },
+  {
+    "symbol": "HOME_USDT",
+    "baseCoin": "HOME",
+    "state": 0
+  },
+  {
+    "symbol": "HOT_USDT",
+    "baseCoin": "HOT",
+    "state": 0
+  },
+  {
+    "symbol": "HUMA_USDT",
+    "baseCoin": "HUMA",
+    "state": 0
+  },
+  {
+    "symbol": "HYPER_USDT",
+    "baseCoin": "HYPER",
+    "state": 0
+  },
+  {
+    "symbol": "HYPE_USD1",
+    "baseCoin": "HYPE",
+    "state": 0
+  },
+  {
+    "symbol": "HYPE_USDC",
+    "baseCoin": "HYPE",
+    "state": 0
+  },
+  {
+    "symbol": "HYPE_USDT",
+    "baseCoin": "HYPE",
+    "state": 0
+  },
+  {
+    "symbol": "H_USDC",
+    "baseCoin": "H",
+    "state": 0
+  },
+  {
+    "symbol": "H_USDT",
+    "baseCoin": "H",
+    "state": 0
+  },
+  {
+    "symbol": "IBMSTOCK_USDT",
+    "baseCoin": "IBMSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "ICNT_USDC",
+    "baseCoin": "ICNT",
+    "state": 0
+  },
+  {
+    "symbol": "ICNT_USDT",
+    "baseCoin": "ICNT",
+    "state": 0
+  },
+  {
+    "symbol": "ICP_USDC",
+    "baseCoin": "ICP",
+    "state": 0
+  },
+  {
+    "symbol": "ICP_USDT",
+    "baseCoin": "ICP",
+    "state": 0
+  },
+  {
+    "symbol": "ICX_USDT",
+    "baseCoin": "ICX",
+    "state": 0
+  },
+  {
+    "symbol": "IDOL_USDT",
+    "baseCoin": "IDOL",
+    "state": 0
+  },
+  {
+    "symbol": "ID_USDT",
+    "baseCoin": "ID",
+    "state": 0
+  },
+  {
+    "symbol": "IKA_USDT",
+    "baseCoin": "IKA",
+    "state": 0
+  },
+  {
+    "symbol": "ILV_USDT",
+    "baseCoin": "ILV",
+    "state": 0
+  },
+  {
+    "symbol": "IMX_USDT",
+    "baseCoin": "IMX",
+    "state": 0
+  },
+  {
+    "symbol": "INIT_USDT",
+    "baseCoin": "INIT",
+    "state": 0
+  },
+  {
+    "symbol": "INJ_USDC",
+    "baseCoin": "INJ",
+    "state": 0
+  },
+  {
+    "symbol": "INJ_USDT",
+    "baseCoin": "INJ",
+    "state": 0
+  },
+  {
+    "symbol": "INTCSTOCK_USDT",
+    "baseCoin": "INTCSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "INTUSTOCK_USDT",
+    "baseCoin": "INTUSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "INX_USDT",
+    "baseCoin": "INX",
+    "state": 0
+  },
+  {
+    "symbol": "IN_USDT",
+    "baseCoin": "IN",
+    "state": 0
+  },
+  {
+    "symbol": "IONQSTOCK_USDT",
+    "baseCoin": "IONQSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "IOST_USDT",
+    "baseCoin": "IOST",
+    "state": 0
+  },
+  {
+    "symbol": "IOTA_USDT",
+    "baseCoin": "IOTA",
+    "state": 0
+  },
+  {
+    "symbol": "IOTX_USDT",
+    "baseCoin": "IOTX",
+    "state": 0
+  },
+  {
+    "symbol": "IO_USDT",
+    "baseCoin": "IO",
+    "state": 0
+  },
+  {
+    "symbol": "IP_USDC",
+    "baseCoin": "IP",
+    "state": 0
+  },
+  {
+    "symbol": "IP_USDT",
+    "baseCoin": "IP",
+    "state": 0
+  },
+  {
+    "symbol": "IQ_USDT",
+    "baseCoin": "IQ",
+    "state": 0
+  },
+  {
+    "symbol": "IRENSTOCK_USDT",
+    "baseCoin": "IRENSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "IRYS_USDT",
+    "baseCoin": "IRYS",
+    "state": 0
+  },
+  {
+    "symbol": "JASMY_USDT",
+    "baseCoin": "JASMY",
+    "state": 0
+  },
+  {
+    "symbol": "JCT_USDT",
+    "baseCoin": "JCT",
+    "state": 0
+  },
+  {
+    "symbol": "JDSTOCK_USDT",
+    "baseCoin": "JDSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "JELLYJELLY_USDT",
+    "baseCoin": "JELLYJELLY",
+    "state": 0
+  },
+  {
+    "symbol": "JOE_USDT",
+    "baseCoin": "JOE",
+    "state": 0
+  },
+  {
+    "symbol": "JP225_USDT",
+    "baseCoin": "JP225",
+    "state": 0
+  },
+  {
+    "symbol": "JPMSTOCK_USDT",
+    "baseCoin": "JPMSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "JPY_USDT",
+    "baseCoin": "JPY",
+    "state": 0
+  },
+  {
+    "symbol": "JST_USDT",
+    "baseCoin": "JST",
+    "state": 0
+  },
+  {
+    "symbol": "JTO_USDT",
+    "baseCoin": "JTO",
+    "state": 0
+  },
+  {
+    "symbol": "JUP_USDT",
+    "baseCoin": "JUP",
+    "state": 0
+  },
+  {
+    "symbol": "KAIA_USDT",
+    "baseCoin": "KAIA",
+    "state": 0
+  },
+  {
+    "symbol": "KAIO_USDT",
+    "baseCoin": "KAIO",
+    "state": 0
+  },
+  {
+    "symbol": "KAITO_USDC",
+    "baseCoin": "KAITO",
+    "state": 0
+  },
+  {
+    "symbol": "KAITO_USDT",
+    "baseCoin": "KAITO",
+    "state": 0
+  },
+  {
+    "symbol": "KAS_USDT",
+    "baseCoin": "KAS",
+    "state": 0
+  },
+  {
+    "symbol": "KAT_USDT",
+    "baseCoin": "KAT",
+    "state": 0
+  },
+  {
+    "symbol": "KAVA_USDT",
+    "baseCoin": "KAVA",
+    "state": 0
+  },
+  {
+    "symbol": "KERNEL_USDT",
+    "baseCoin": "KERNEL",
+    "state": 0
+  },
+  {
+    "symbol": "KGEN_USDT",
+    "baseCoin": "KGEN",
+    "state": 0
+  },
+  {
+    "symbol": "KITE_USDT",
+    "baseCoin": "KITE",
+    "state": 0
+  },
+  {
+    "symbol": "KLACSTOCK_USDT",
+    "baseCoin": "KLACSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "KMNO_USDT",
+    "baseCoin": "KMNO",
+    "state": 0
+  },
+  {
+    "symbol": "KNC_USDT",
+    "baseCoin": "KNC",
+    "state": 0
+  },
+  {
+    "symbol": "KOMA_USDT",
+    "baseCoin": "KOMA",
+    "state": 0
+  },
+  {
+    "symbol": "KOSTOCK_USDT",
+    "baseCoin": "KOSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "KSM_USDT",
+    "baseCoin": "KSM",
+    "state": 0
+  },
+  {
+    "symbol": "LAB_USDT",
+    "baseCoin": "LAB",
+    "state": 0
+  },
+  {
+    "symbol": "LAYER_USDT",
+    "baseCoin": "LAYER",
+    "state": 0
+  },
+  {
+    "symbol": "LA_USDT",
+    "baseCoin": "LA",
+    "state": 0
+  },
+  {
+    "symbol": "LDO_USDT",
+    "baseCoin": "LDO",
+    "state": 0
+  },
+  {
+    "symbol": "LEAD_USDT",
+    "baseCoin": "LEAD",
+    "state": 4
+  },
+  {
+    "symbol": "LFI_USDT",
+    "baseCoin": "LFI",
+    "state": 0
+  },
+  {
+    "symbol": "LIGHT_USDT",
+    "baseCoin": "LIGHT",
+    "state": 0
+  },
+  {
+    "symbol": "LINEA_USDT",
+    "baseCoin": "LINEA",
+    "state": 0
+  },
+  {
+    "symbol": "LINK_USD",
+    "baseCoin": "LINK",
+    "state": 0
+  },
+  {
+    "symbol": "LINK_USD1",
+    "baseCoin": "LINK",
+    "state": 0
+  },
+  {
+    "symbol": "LINK_USDC",
+    "baseCoin": "LINK",
+    "state": 0
+  },
+  {
+    "symbol": "LINK_USDT",
+    "baseCoin": "LINK",
+    "state": 0
+  },
+  {
+    "symbol": "LINSTOCK_USDT",
+    "baseCoin": "LINSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "LISTA_USDT",
+    "baseCoin": "LISTA",
+    "state": 0
+  },
+  {
+    "symbol": "LITESTOCK_USDT",
+    "baseCoin": "LITESTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "LIT_USDT",
+    "baseCoin": "LIT",
+    "state": 0
+  },
+  {
+    "symbol": "LLYSTOCK_USDT",
+    "baseCoin": "LLYSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "LMTSTOCK_USDT",
+    "baseCoin": "LMTSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "LMWR_USDT",
+    "baseCoin": "LMWR",
+    "state": 0
+  },
+  {
+    "symbol": "LONGXIA_USDT",
+    "baseCoin": "LONGXIA",
+    "state": 0
+  },
+  {
+    "symbol": "LPT_USDT",
+    "baseCoin": "LPT",
+    "state": 0
+  },
+  {
+    "symbol": "LQTY_USDT",
+    "baseCoin": "LQTY",
+    "state": 0
+  },
+  {
+    "symbol": "LRCXSTOCK_USDT",
+    "baseCoin": "LRCXSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "LRC_USDT",
+    "baseCoin": "LRC",
+    "state": 0
+  },
+  {
+    "symbol": "LSK_USDT",
+    "baseCoin": "LSK",
+    "state": 0
+  },
+  {
+    "symbol": "LTC_USD",
+    "baseCoin": "LTC",
+    "state": 0
+  },
+  {
+    "symbol": "LTC_USD1",
+    "baseCoin": "LTC",
+    "state": 0
+  },
+  {
+    "symbol": "LTC_USDC",
+    "baseCoin": "LTC",
+    "state": 0
+  },
+  {
+    "symbol": "LTC_USDT",
+    "baseCoin": "LTC",
+    "state": 0
+  },
+  {
+    "symbol": "LUMIA_USDT",
+    "baseCoin": "LUMIA",
+    "state": 0
+  },
+  {
+    "symbol": "LUNANEW_USDT",
+    "baseCoin": "LUNANEW",
+    "state": 0
+  },
+  {
+    "symbol": "LUNC_USDT",
+    "baseCoin": "LUNC",
+    "state": 0
+  },
+  {
+    "symbol": "LYN_USDT",
+    "baseCoin": "LYN",
+    "state": 0
+  },
+  {
+    "symbol": "MAGAALIENS_USDT",
+    "baseCoin": "MAGAALIENS",
+    "state": 0
+  },
+  {
+    "symbol": "MAGIC_USDT",
+    "baseCoin": "MAGIC",
+    "state": 0
+  },
+  {
+    "symbol": "MAGMA_USDT",
+    "baseCoin": "MAGMA",
+    "state": 0
+  },
+  {
+    "symbol": "MAMO_USDT",
+    "baseCoin": "MAMO",
+    "state": 0
+  },
+  {
+    "symbol": "MANA_USDT",
+    "baseCoin": "MANA",
+    "state": 0
+  },
+  {
+    "symbol": "MANTA_USDT",
+    "baseCoin": "MANTA",
+    "state": 0
+  },
+  {
+    "symbol": "MANTRA_USDT",
+    "baseCoin": "MANTRA",
+    "state": 0
+  },
+  {
+    "symbol": "MANYU_USDT",
+    "baseCoin": "MANYU",
+    "state": 0
+  },
+  {
+    "symbol": "MASK_USDT",
+    "baseCoin": "MASK",
+    "state": 0
+  },
+  {
+    "symbol": "MASTOCK_USDT",
+    "baseCoin": "MASTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "MAVIA_USDT",
+    "baseCoin": "MAVIA",
+    "state": 0
+  },
+  {
+    "symbol": "MAV_USDT",
+    "baseCoin": "MAV",
+    "state": 0
+  },
+  {
+    "symbol": "MAXXING_USDT",
+    "baseCoin": "MAXXING",
+    "state": 0
+  },
+  {
+    "symbol": "MBOX_USDT",
+    "baseCoin": "MBOX",
+    "state": 0
+  },
+  {
+    "symbol": "MCDSTOCK_USDT",
+    "baseCoin": "MCDSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "MEGA_USDT",
+    "baseCoin": "MEGA",
+    "state": 0
+  },
+  {
+    "symbol": "MELANIA_USDT",
+    "baseCoin": "MELANIA",
+    "state": 0
+  },
+  {
+    "symbol": "MELISTOCK_USDT",
+    "baseCoin": "MELISTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "MEME_USDT",
+    "baseCoin": "MEME",
+    "state": 0
+  },
+  {
+    "symbol": "MERL_USDT",
+    "baseCoin": "MERL",
+    "state": 0
+  },
+  {
+    "symbol": "METASTOCK_USDT",
+    "baseCoin": "METASTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "METIS_USDT",
+    "baseCoin": "METIS",
+    "state": 0
+  },
+  {
+    "symbol": "MET_USDT",
+    "baseCoin": "MET",
+    "state": 0
+  },
+  {
+    "symbol": "MEW_USDT",
+    "baseCoin": "MEW",
+    "state": 0
+  },
+  {
+    "symbol": "MEZO_USDT",
+    "baseCoin": "MEZO",
+    "state": 0
+  },
+  {
+    "symbol": "ME_USDT",
+    "baseCoin": "ME",
+    "state": 0
+  },
+  {
+    "symbol": "MINA_USDT",
+    "baseCoin": "MINA",
+    "state": 0
+  },
+  {
+    "symbol": "MIRA_USDT",
+    "baseCoin": "MIRA",
+    "state": 0
+  },
+  {
+    "symbol": "MITO_USDT",
+    "baseCoin": "MITO",
+    "state": 0
+  },
+  {
+    "symbol": "MLN_USDT",
+    "baseCoin": "MLN",
+    "state": 0
+  },
+  {
+    "symbol": "MMT_USDT",
+    "baseCoin": "MMT",
+    "state": 0
+  },
+  {
+    "symbol": "MNT_USDC",
+    "baseCoin": "MNT",
+    "state": 0
+  },
+  {
+    "symbol": "MNT_USDT",
+    "baseCoin": "MNT",
+    "state": 0
+  },
+  {
+    "symbol": "MOCA_USDT",
+    "baseCoin": "MOCA",
+    "state": 0
+  },
+  {
+    "symbol": "MONAD_USDT",
+    "baseCoin": "MONAD",
+    "state": 0
+  },
+  {
+    "symbol": "MOODENG_USDC",
+    "baseCoin": "MOODENG",
+    "state": 0
+  },
+  {
+    "symbol": "MOODENG_USDT",
+    "baseCoin": "MOODENG",
+    "state": 0
+  },
+  {
+    "symbol": "MORI_USDT",
+    "baseCoin": "MORI",
+    "state": 0
+  },
+  {
+    "symbol": "MORPHO_USDT",
+    "baseCoin": "MORPHO",
+    "state": 0
+  },
+  {
+    "symbol": "MOVE_USDT",
+    "baseCoin": "MOVE",
+    "state": 0
+  },
+  {
+    "symbol": "MOVR_USDT",
+    "baseCoin": "MOVR",
+    "state": 0
+  },
+  {
+    "symbol": "MRVLSTOCK_USDT",
+    "baseCoin": "MRVLSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "MSFTSTOCK_USDT",
+    "baseCoin": "MSFTSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "MSTRSTOCK_USDT",
+    "baseCoin": "MSTRSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "MTL_USDT",
+    "baseCoin": "MTL",
+    "state": 0
+  },
+  {
+    "symbol": "MUBARAK_USDT",
+    "baseCoin": "MUBARAK",
+    "state": 0
+  },
+  {
+    "symbol": "MUSTOCK_USDT",
+    "baseCoin": "MUSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "MYX_USDT",
+    "baseCoin": "MYX",
+    "state": 0
+  },
+  {
+    "symbol": "M_USDT",
+    "baseCoin": "M",
+    "state": 0
+  },
+  {
+    "symbol": "NAORIS_USDT",
+    "baseCoin": "NAORIS",
+    "state": 0
+  },
+  {
+    "symbol": "NAS100_USDT",
+    "baseCoin": "NAS100",
+    "state": 0
+  },
+  {
+    "symbol": "NAT_USDT",
+    "baseCoin": "NAT",
+    "state": 0
+  },
+  {
+    "symbol": "NBISSTOCK_USDT",
+    "baseCoin": "NBISSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "NEAR_USD1",
+    "baseCoin": "NEAR",
+    "state": 0
+  },
+  {
+    "symbol": "NEAR_USDC",
+    "baseCoin": "NEAR",
+    "state": 0
+  },
+  {
+    "symbol": "NEAR_USDT",
+    "baseCoin": "NEAR",
+    "state": 0
+  },
+  {
+    "symbol": "NEIROCTO_USDC",
+    "baseCoin": "NEIROCTO",
+    "state": 0
+  },
+  {
+    "symbol": "NEIROCTO_USDT",
+    "baseCoin": "NEIROCTO",
+    "state": 0
+  },
+  {
+    "symbol": "NEO_USDC",
+    "baseCoin": "NEO",
+    "state": 0
+  },
+  {
+    "symbol": "NEO_USDT",
+    "baseCoin": "NEO",
+    "state": 0
+  },
+  {
+    "symbol": "NEWT_USDT",
+    "baseCoin": "NEWT",
+    "state": 0
+  },
+  {
+    "symbol": "NFLXSTOCK_USDT",
+    "baseCoin": "NFLXSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "NFP_USDT",
+    "baseCoin": "NFP",
+    "state": 0
+  },
+  {
+    "symbol": "NGAS_USDT",
+    "baseCoin": "NGAS",
+    "state": 0
+  },
+  {
+    "symbol": "NICKEL_USDT",
+    "baseCoin": "NICKEL",
+    "state": 4
+  },
+  {
+    "symbol": "NIGHT_USDT",
+    "baseCoin": "NIGHT",
+    "state": 0
+  },
+  {
+    "symbol": "NIL_USDT",
+    "baseCoin": "NIL",
+    "state": 0
+  },
+  {
+    "symbol": "NKESTOCK_USDT",
+    "baseCoin": "NKESTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "NMR_USDT",
+    "baseCoin": "NMR",
+    "state": 0
+  },
+  {
+    "symbol": "NOCK_USDT",
+    "baseCoin": "NOCK",
+    "state": 0
+  },
+  {
+    "symbol": "NOM_USDT",
+    "baseCoin": "NOM",
+    "state": 0
+  },
+  {
+    "symbol": "NOT_USDC",
+    "baseCoin": "NOT",
+    "state": 0
+  },
+  {
+    "symbol": "NOT_USDT",
+    "baseCoin": "NOT",
+    "state": 0
+  },
+  {
+    "symbol": "NOWSTOCK_USDT",
+    "baseCoin": "NOWSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "NPC_USDT",
+    "baseCoin": "NPC",
+    "state": 0
+  },
+  {
+    "symbol": "NVIDIA_USDT",
+    "baseCoin": "NVIDIA",
+    "state": 0
+  },
+  {
+    "symbol": "NXPC_USDT",
+    "baseCoin": "NXPC",
+    "state": 0
+  },
+  {
+    "symbol": "OFC_USDT",
+    "baseCoin": "OFC",
+    "state": 0
+  },
+  {
+    "symbol": "OGN_USDT",
+    "baseCoin": "OGN",
+    "state": 0
+  },
+  {
+    "symbol": "OG_USDT",
+    "baseCoin": "OG",
+    "state": 0
+  },
+  {
+    "symbol": "OKB_USDT",
+    "baseCoin": "OKB",
+    "state": 0
+  },
+  {
+    "symbol": "OL_USDT",
+    "baseCoin": "OL",
+    "state": 0
+  },
+  {
+    "symbol": "ONDO_USDC",
+    "baseCoin": "ONDO",
+    "state": 0
+  },
+  {
+    "symbol": "ONDO_USDT",
+    "baseCoin": "ONDO",
+    "state": 0
+  },
+  {
+    "symbol": "ONDSSTOCK_USDT",
+    "baseCoin": "ONDSSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "ONE_USDT",
+    "baseCoin": "ONE",
+    "state": 0
+  },
+  {
+    "symbol": "ONG_USDT",
+    "baseCoin": "ONG",
+    "state": 0
+  },
+  {
+    "symbol": "ONT_USDT",
+    "baseCoin": "ONT",
+    "state": 0
+  },
+  {
+    "symbol": "ON_USDT",
+    "baseCoin": "ON",
+    "state": 0
+  },
+  {
+    "symbol": "OPENAI_USDT",
+    "baseCoin": "OPENAI",
+    "state": 0
+  },
+  {
+    "symbol": "OPENLEDGER_USDT",
+    "baseCoin": "OPENLEDGER",
+    "state": 0
+  },
+  {
+    "symbol": "OPG_USDT",
+    "baseCoin": "OPG",
+    "state": 0
+  },
+  {
+    "symbol": "OPN_USDT",
+    "baseCoin": "OPN",
+    "state": 0
+  },
+  {
+    "symbol": "OP_USDC",
+    "baseCoin": "OP",
+    "state": 0
+  },
+  {
+    "symbol": "OP_USDT",
+    "baseCoin": "OP",
+    "state": 0
+  },
+  {
+    "symbol": "ORBS_USDT",
+    "baseCoin": "ORBS",
+    "state": 0
+  },
+  {
+    "symbol": "ORCA_USDT",
+    "baseCoin": "ORCA",
+    "state": 0
+  },
+  {
+    "symbol": "ORCLSTOCK_USDT",
+    "baseCoin": "ORCLSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "ORDER_USDT",
+    "baseCoin": "ORDER",
+    "state": 0
+  },
+  {
+    "symbol": "ORDI_USDC",
+    "baseCoin": "ORDI",
+    "state": 0
+  },
+  {
+    "symbol": "ORDI_USDT",
+    "baseCoin": "ORDI",
+    "state": 0
+  },
+  {
+    "symbol": "OXT_USDT",
+    "baseCoin": "OXT",
+    "state": 0
+  },
+  {
+    "symbol": "OXYSTOCK_USDT",
+    "baseCoin": "OXYSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "PANWSTOCK_USDT",
+    "baseCoin": "PANWSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "PARTI_USDT",
+    "baseCoin": "PARTI",
+    "state": 0
+  },
+  {
+    "symbol": "PAXG_USDC",
+    "baseCoin": "PAXG",
+    "state": 0
+  },
+  {
+    "symbol": "PAXG_USDT",
+    "baseCoin": "PAXG",
+    "state": 0
+  },
+  {
+    "symbol": "PAYPSTOCK_USDT",
+    "baseCoin": "PAYPSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "PDDSTOCK_USDT",
+    "baseCoin": "PDDSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "PEACE_USDT",
+    "baseCoin": "PEACE",
+    "state": 0
+  },
+  {
+    "symbol": "PEAQ_USDT",
+    "baseCoin": "PEAQ",
+    "state": 0
+  },
+  {
+    "symbol": "PENDLE_USDC",
+    "baseCoin": "PENDLE",
+    "state": 0
+  },
+  {
+    "symbol": "PENDLE_USDT",
+    "baseCoin": "PENDLE",
+    "state": 0
+  },
+  {
+    "symbol": "PENGUIN_USDT",
+    "baseCoin": "PENGUIN",
+    "state": 0
+  },
+  {
+    "symbol": "PENGU_USDC",
+    "baseCoin": "PENGU",
+    "state": 0
+  },
+  {
+    "symbol": "PENGU_USDT",
+    "baseCoin": "PENGU",
+    "state": 0
+  },
+  {
+    "symbol": "PEOPLE_USDT",
+    "baseCoin": "PEOPLE",
+    "state": 0
+  },
+  {
+    "symbol": "PEPE_USD1",
+    "baseCoin": "PEPE",
+    "state": 0
+  },
+  {
+    "symbol": "PEPE_USDC",
+    "baseCoin": "PEPE",
+    "state": 0
+  },
+  {
+    "symbol": "PEPE_USDT",
+    "baseCoin": "PEPE",
+    "state": 0
+  },
+  {
+    "symbol": "PEPSTOCK_USDT",
+    "baseCoin": "PEPSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "PGSTOCK_USDT",
+    "baseCoin": "PGSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "PHAROS_USDT",
+    "baseCoin": "PHAROS",
+    "state": 0
+  },
+  {
+    "symbol": "PHA_USDT",
+    "baseCoin": "PHA",
+    "state": 0
+  },
+  {
+    "symbol": "PHB_USDT",
+    "baseCoin": "PHB",
+    "state": 0
+  },
+  {
+    "symbol": "PIEVERSE_USDT",
+    "baseCoin": "PIEVERSE",
+    "state": 0
+  },
+  {
+    "symbol": "PIPPIN_USDT",
+    "baseCoin": "PIPPIN",
+    "state": 0
+  },
+  {
+    "symbol": "PIXEL_USDT",
+    "baseCoin": "PIXEL",
+    "state": 0
+  },
+  {
+    "symbol": "PI_USDT",
+    "baseCoin": "PI",
+    "state": 0
+  },
+  {
+    "symbol": "PLAY_USDT",
+    "baseCoin": "PLAY",
+    "state": 0
+  },
+  {
+    "symbol": "PLTRSTOCK_USDT",
+    "baseCoin": "PLTRSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "PLUME_USDT",
+    "baseCoin": "PLUME",
+    "state": 0
+  },
+  {
+    "symbol": "PNUT_USDC",
+    "baseCoin": "PNUT",
+    "state": 0
+  },
+  {
+    "symbol": "PNUT_USDT",
+    "baseCoin": "PNUT",
+    "state": 0
+  },
+  {
+    "symbol": "POLYX_USDT",
+    "baseCoin": "POLYX",
+    "state": 0
+  },
+  {
+    "symbol": "POL_USDC",
+    "baseCoin": "POL",
+    "state": 0
+  },
+  {
+    "symbol": "POL_USDT",
+    "baseCoin": "POL",
+    "state": 0
+  },
+  {
+    "symbol": "POND_USDT",
+    "baseCoin": "POND",
+    "state": 0
+  },
+  {
+    "symbol": "POPCAT_USDC",
+    "baseCoin": "POPCAT",
+    "state": 0
+  },
+  {
+    "symbol": "POPCAT_USDT",
+    "baseCoin": "POPCAT",
+    "state": 0
+  },
+  {
+    "symbol": "PORTAL_USDT",
+    "baseCoin": "PORTAL",
+    "state": 0
+  },
+  {
+    "symbol": "POWER_USDT",
+    "baseCoin": "POWER",
+    "state": 0
+  },
+  {
+    "symbol": "POWR_USDT",
+    "baseCoin": "POWR",
+    "state": 0
+  },
+  {
+    "symbol": "PRL_USDT",
+    "baseCoin": "PRL",
+    "state": 0
+  },
+  {
+    "symbol": "PROMPT_USDT",
+    "baseCoin": "PROMPT",
+    "state": 0
+  },
+  {
+    "symbol": "PROM_USDT",
+    "baseCoin": "PROM",
+    "state": 0
+  },
+  {
+    "symbol": "PROVE_USDT",
+    "baseCoin": "PROVE",
+    "state": 0
+  },
+  {
+    "symbol": "PTB_USDT",
+    "baseCoin": "PTB",
+    "state": 0
+  },
+  {
+    "symbol": "PUFFER_USDT",
+    "baseCoin": "PUFFER",
+    "state": 0
+  },
+  {
+    "symbol": "PUMPBTC_USDT",
+    "baseCoin": "PUMPBTC",
+    "state": 0
+  },
+  {
+    "symbol": "PUMPFUN_USDC",
+    "baseCoin": "PUMPFUN",
+    "state": 0
+  },
+  {
+    "symbol": "PUMPFUN_USDT",
+    "baseCoin": "PUMPFUN",
+    "state": 0
+  },
+  {
+    "symbol": "PUNDIX_USDT",
+    "baseCoin": "PUNDIX",
+    "state": 0
+  },
+  {
+    "symbol": "PYPLSTOCK_USDT",
+    "baseCoin": "PYPLSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "PYR_USDT",
+    "baseCoin": "PYR",
+    "state": 0
+  },
+  {
+    "symbol": "PYTH_USDT",
+    "baseCoin": "PYTH",
+    "state": 0
+  },
+  {
+    "symbol": "QCOMSTOCK_USDT",
+    "baseCoin": "QCOMSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "QNT_USDT",
+    "baseCoin": "QNT",
+    "state": 0
+  },
+  {
+    "symbol": "QQQSTOCK_USDT",
+    "baseCoin": "QQQSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "QTUM_USDT",
+    "baseCoin": "QTUM",
+    "state": 0
+  },
+  {
+    "symbol": "QUBIC_USDT",
+    "baseCoin": "QUBIC",
+    "state": 0
+  },
+  {
+    "symbol": "Q_USDT",
+    "baseCoin": "Q",
+    "state": 0
+  },
+  {
+    "symbol": "RARE_USDT",
+    "baseCoin": "RARE",
+    "state": 0
+  },
+  {
+    "symbol": "RAVE_USDT",
+    "baseCoin": "RAVE",
+    "state": 0
+  },
+  {
+    "symbol": "RAY_USDT",
+    "baseCoin": "RAY",
+    "state": 0
+  },
+  {
+    "symbol": "RDDTSTOCK_USDT",
+    "baseCoin": "RDDTSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "RECALL_USDT",
+    "baseCoin": "RECALL",
+    "state": 0
+  },
+  {
+    "symbol": "REDO_USDT",
+    "baseCoin": "REDO",
+    "state": 0
+  },
+  {
+    "symbol": "RED_USDT",
+    "baseCoin": "RED",
+    "state": 0
+  },
+  {
+    "symbol": "RENDER_USDT",
+    "baseCoin": "RENDER",
+    "state": 0
+  },
+  {
+    "symbol": "REQ_USDT",
+    "baseCoin": "REQ",
+    "state": 0
+  },
+  {
+    "symbol": "RESOLV_USDC",
+    "baseCoin": "RESOLV",
+    "state": 0
+  },
+  {
+    "symbol": "RESOLV_USDT",
+    "baseCoin": "RESOLV",
+    "state": 0
+  },
+  {
+    "symbol": "REZ_USDT",
+    "baseCoin": "REZ",
+    "state": 0
+  },
+  {
+    "symbol": "RIF_USDT",
+    "baseCoin": "RIF",
+    "state": 0
+  },
+  {
+    "symbol": "RIVER_USDT",
+    "baseCoin": "RIVER",
+    "state": 0
+  },
+  {
+    "symbol": "RKLBSTOCK_USDT",
+    "baseCoin": "RKLBSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "RLC_USDT",
+    "baseCoin": "RLC",
+    "state": 0
+  },
+  {
+    "symbol": "RLS_USDT",
+    "baseCoin": "RLS",
+    "state": 0
+  },
+  {
+    "symbol": "RNBW_USDT",
+    "baseCoin": "RNBW",
+    "state": 0
+  },
+  {
+    "symbol": "ROAM_USDT",
+    "baseCoin": "ROAM",
+    "state": 0
+  },
+  {
+    "symbol": "ROBINHOOD_USDT",
+    "baseCoin": "ROBINHOOD",
+    "state": 0
+  },
+  {
+    "symbol": "ROBO_USDT",
+    "baseCoin": "ROBO",
+    "state": 0
+  },
+  {
+    "symbol": "ROLL_USDT",
+    "baseCoin": "ROLL",
+    "state": 0
+  },
+  {
+    "symbol": "RON_USDT",
+    "baseCoin": "RON",
+    "state": 0
+  },
+  {
+    "symbol": "ROSE_USDT",
+    "baseCoin": "ROSE",
+    "state": 0
+  },
+  {
+    "symbol": "RPL_USDT",
+    "baseCoin": "RPL",
+    "state": 0
+  },
+  {
+    "symbol": "RSR_USDT",
+    "baseCoin": "RSR",
+    "state": 0
+  },
+  {
+    "symbol": "RTXSTOCK_USDT",
+    "baseCoin": "RTXSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "RUNE_USDT",
+    "baseCoin": "RUNE",
+    "state": 0
+  },
+  {
+    "symbol": "RVN_USDT",
+    "baseCoin": "RVN",
+    "state": 0
+  },
+  {
+    "symbol": "SAFE_USDT",
+    "baseCoin": "SAFE",
+    "state": 0
+  },
+  {
+    "symbol": "SAGA_USDT",
+    "baseCoin": "SAGA",
+    "state": 0
+  },
+  {
+    "symbol": "SAHARA_USDC",
+    "baseCoin": "SAHARA",
+    "state": 0
+  },
+  {
+    "symbol": "SAHARA_USDT",
+    "baseCoin": "SAHARA",
+    "state": 0
+  },
+  {
+    "symbol": "SAND_USDT",
+    "baseCoin": "SAND",
+    "state": 0
+  },
+  {
+    "symbol": "SANTOS_USDT",
+    "baseCoin": "SANTOS",
+    "state": 0
+  },
+  {
+    "symbol": "SAPIEN_USDT",
+    "baseCoin": "SAPIEN",
+    "state": 0
+  },
+  {
+    "symbol": "SATO_USDT",
+    "baseCoin": "SATO",
+    "state": 0
+  },
+  {
+    "symbol": "SATS_USDT",
+    "baseCoin": "SATS",
+    "state": 0
+  },
+  {
+    "symbol": "SBUXSTOCK_USDT",
+    "baseCoin": "SBUXSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "SCRT_USDT",
+    "baseCoin": "SCRT",
+    "state": 0
+  },
+  {
+    "symbol": "SCR_USDT",
+    "baseCoin": "SCR",
+    "state": 0
+  },
+  {
+    "symbol": "SC_USDT",
+    "baseCoin": "SC",
+    "state": 0
+  },
+  {
+    "symbol": "SEI_USDC",
+    "baseCoin": "SEI",
+    "state": 0
+  },
+  {
+    "symbol": "SEI_USDT",
+    "baseCoin": "SEI",
+    "state": 0
+  },
+  {
+    "symbol": "SENT_USDT",
+    "baseCoin": "SENT",
+    "state": 0
+  },
+  {
+    "symbol": "SFP_USDT",
+    "baseCoin": "SFP",
+    "state": 0
+  },
+  {
+    "symbol": "SHARE_USDT",
+    "baseCoin": "SHARE",
+    "state": 0
+  },
+  {
+    "symbol": "SHELL_USDT",
+    "baseCoin": "SHELL",
+    "state": 0
+  },
+  {
+    "symbol": "SHIB_USDC",
+    "baseCoin": "SHIB",
+    "state": 0
+  },
+  {
+    "symbol": "SHIB_USDT",
+    "baseCoin": "SHIB",
+    "state": 0
+  },
+  {
+    "symbol": "SHOPSTOCK_USDT",
+    "baseCoin": "SHOPSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "SIGN_USDT",
+    "baseCoin": "SIGN",
+    "state": 0
+  },
+  {
+    "symbol": "SILVER_USD1",
+    "baseCoin": "SILVER",
+    "state": 0
+  },
+  {
+    "symbol": "SILVER_USDC",
+    "baseCoin": "SILVER",
+    "state": 0
+  },
+  {
+    "symbol": "SILVER_USDT",
+    "baseCoin": "SILVER",
+    "state": 0
+  },
+  {
+    "symbol": "SIREN_USDT",
+    "baseCoin": "SIREN",
+    "state": 0
+  },
+  {
+    "symbol": "SKL_USDT",
+    "baseCoin": "SKL",
+    "state": 0
+  },
+  {
+    "symbol": "SKR_USDT",
+    "baseCoin": "SKR",
+    "state": 0
+  },
+  {
+    "symbol": "SKYAI_USDT",
+    "baseCoin": "SKYAI",
+    "state": 0
+  },
+  {
+    "symbol": "SKY_USDT",
+    "baseCoin": "SKY",
+    "state": 0
+  },
+  {
+    "symbol": "SLP_USDT",
+    "baseCoin": "SLP",
+    "state": 0
+  },
+  {
+    "symbol": "SMCISTOCK_USDT",
+    "baseCoin": "SMCISTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "SNDKSTOCK_USDT",
+    "baseCoin": "SNDKSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "SNOWSTOCK_USDT",
+    "baseCoin": "SNOWSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "SNT_USDT",
+    "baseCoin": "SNT",
+    "state": 0
+  },
+  {
+    "symbol": "SNX_USDT",
+    "baseCoin": "SNX",
+    "state": 0
+  },
+  {
+    "symbol": "SOLV_USDT",
+    "baseCoin": "SOLV",
+    "state": 0
+  },
+  {
+    "symbol": "SOL_USD",
+    "baseCoin": "SOL",
+    "state": 0
+  },
+  {
+    "symbol": "SOL_USD1",
+    "baseCoin": "SOL",
+    "state": 0
+  },
+  {
+    "symbol": "SOL_USDC",
+    "baseCoin": "SOL",
+    "state": 0
+  },
+  {
+    "symbol": "SOL_USDT",
+    "baseCoin": "SOL",
+    "state": 0
+  },
+  {
+    "symbol": "SOMI_USDT",
+    "baseCoin": "SOMI",
+    "state": 0
+  },
+  {
+    "symbol": "SONIC_USDT",
+    "baseCoin": "SONIC",
+    "state": 0
+  },
+  {
+    "symbol": "SOONNETWORK_USDT",
+    "baseCoin": "SOONNETWORK",
+    "state": 0
+  },
+  {
+    "symbol": "SOPH_USDT",
+    "baseCoin": "SOPH",
+    "state": 0
+  },
+  {
+    "symbol": "SOXX_USDT",
+    "baseCoin": "SOXX",
+    "state": 0
+  },
+  {
+    "symbol": "SPACEX_USDT",
+    "baseCoin": "SPACEX",
+    "state": 0
+  },
+  {
+    "symbol": "SPACE_USDT",
+    "baseCoin": "SPACE",
+    "state": 0
+  },
+  {
+    "symbol": "SPELL_USDT",
+    "baseCoin": "SPELL",
+    "state": 0
+  },
+  {
+    "symbol": "SPK_USDT",
+    "baseCoin": "SPK",
+    "state": 0
+  },
+  {
+    "symbol": "SPORTFUN_USDT",
+    "baseCoin": "SPORTFUN",
+    "state": 0
+  },
+  {
+    "symbol": "SPOTSTOCK_USDT",
+    "baseCoin": "SPOTSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "SPX500_USDT",
+    "baseCoin": "SPX500",
+    "state": 0
+  },
+  {
+    "symbol": "SPX_USDC",
+    "baseCoin": "SPX",
+    "state": 0
+  },
+  {
+    "symbol": "SPX_USDT",
+    "baseCoin": "SPX",
+    "state": 0
+  },
+  {
+    "symbol": "SQD_USDT",
+    "baseCoin": "SQD",
+    "state": 0
+  },
+  {
+    "symbol": "SSV_USDT",
+    "baseCoin": "SSV",
+    "state": 0
+  },
+  {
+    "symbol": "STABLE_USDT",
+    "baseCoin": "STABLE",
+    "state": 0
+  },
+  {
+    "symbol": "STBL_USDT",
+    "baseCoin": "STBL",
+    "state": 0
+  },
+  {
+    "symbol": "STEEM_USDT",
+    "baseCoin": "STEEM",
+    "state": 0
+  },
+  {
+    "symbol": "STG_USDT",
+    "baseCoin": "STG",
+    "state": 0
+  },
+  {
+    "symbol": "STORJ_USDT",
+    "baseCoin": "STORJ",
+    "state": 0
+  },
+  {
+    "symbol": "STO_USDT",
+    "baseCoin": "STO",
+    "state": 0
+  },
+  {
+    "symbol": "STRAX_USDT",
+    "baseCoin": "STRAX",
+    "state": 0
+  },
+  {
+    "symbol": "STRK_USDC",
+    "baseCoin": "STRK",
+    "state": 0
+  },
+  {
+    "symbol": "STRK_USDT",
+    "baseCoin": "STRK",
+    "state": 0
+  },
+  {
+    "symbol": "STXSTOCK_USDT",
+    "baseCoin": "STXSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "STX_USDT",
+    "baseCoin": "STX",
+    "state": 0
+  },
+  {
+    "symbol": "ST_USDT",
+    "baseCoin": "ST",
+    "state": 0
+  },
+  {
+    "symbol": "SUI_USD",
+    "baseCoin": "SUI",
+    "state": 0
+  },
+  {
+    "symbol": "SUI_USD1",
+    "baseCoin": "SUI",
+    "state": 0
+  },
+  {
+    "symbol": "SUI_USDC",
+    "baseCoin": "SUI",
+    "state": 0
+  },
+  {
+    "symbol": "SUI_USDT",
+    "baseCoin": "SUI",
+    "state": 0
+  },
+  {
+    "symbol": "SUN_USDT",
+    "baseCoin": "SUN",
+    "state": 0
+  },
+  {
+    "symbol": "SUPER_USDT",
+    "baseCoin": "SUPER",
+    "state": 0
+  },
+  {
+    "symbol": "SUPRA_USDT",
+    "baseCoin": "SUPRA",
+    "state": 0
+  },
+  {
+    "symbol": "SUSHI_USDT",
+    "baseCoin": "SUSHI",
+    "state": 0
+  },
+  {
+    "symbol": "SWARMS_USDT",
+    "baseCoin": "SWARMS",
+    "state": 0
+  },
+  {
+    "symbol": "SXT_USDT",
+    "baseCoin": "SXT",
+    "state": 0
+  },
+  {
+    "symbol": "SYN_USDT",
+    "baseCoin": "SYN",
+    "state": 0
+  },
+  {
+    "symbol": "SYRUP_USDT",
+    "baseCoin": "SYRUP",
+    "state": 0
+  },
+  {
+    "symbol": "SYS_USDT",
+    "baseCoin": "SYS",
+    "state": 0
+  },
+  {
+    "symbol": "S_USDT",
+    "baseCoin": "S",
+    "state": 0
+  },
+  {
+    "symbol": "TAC_USDT",
+    "baseCoin": "TAC",
+    "state": 0
+  },
+  {
+    "symbol": "TAG_USDT",
+    "baseCoin": "TAG",
+    "state": 0
+  },
+  {
+    "symbol": "TAIKO_USDT",
+    "baseCoin": "TAIKO",
+    "state": 0
+  },
+  {
+    "symbol": "TAKE_USDT",
+    "baseCoin": "TAKE",
+    "state": 0
+  },
+  {
+    "symbol": "TAO_USD1",
+    "baseCoin": "TAO",
+    "state": 0
+  },
+  {
+    "symbol": "TAO_USDC",
+    "baseCoin": "TAO",
+    "state": 0
+  },
+  {
+    "symbol": "TAO_USDT",
+    "baseCoin": "TAO",
+    "state": 0
+  },
+  {
+    "symbol": "TA_USDT",
+    "baseCoin": "TA",
+    "state": 0
+  },
+  {
+    "symbol": "TEL_USDT",
+    "baseCoin": "TEL",
+    "state": 0
+  },
+  {
+    "symbol": "TESLA_USDT",
+    "baseCoin": "TESLA",
+    "state": 0
+  },
+  {
+    "symbol": "TESTICLE_USDT",
+    "baseCoin": "TESTICLE",
+    "state": 0
+  },
+  {
+    "symbol": "TFUEL_USDT",
+    "baseCoin": "TFUEL",
+    "state": 0
+  },
+  {
+    "symbol": "THETA_USDT",
+    "baseCoin": "THETA",
+    "state": 0
+  },
+  {
+    "symbol": "THE_USDT",
+    "baseCoin": "THE",
+    "state": 0
+  },
+  {
+    "symbol": "TIA_USDC",
+    "baseCoin": "TIA",
+    "state": 0
+  },
+  {
+    "symbol": "TIA_USDT",
+    "baseCoin": "TIA",
+    "state": 0
+  },
+  {
+    "symbol": "TLM_USDT",
+    "baseCoin": "TLM",
+    "state": 0
+  },
+  {
+    "symbol": "TNSR_USDT",
+    "baseCoin": "TNSR",
+    "state": 0
+  },
+  {
+    "symbol": "TOKEN_USDT",
+    "baseCoin": "TOKEN",
+    "state": 0
+  },
+  {
+    "symbol": "TONCOIN_USDT",
+    "baseCoin": "TONCOIN",
+    "state": 0
+  },
+  {
+    "symbol": "TON_USD1",
+    "baseCoin": "TON",
+    "state": 0
+  },
+  {
+    "symbol": "TON_USDC",
+    "baseCoin": "TON",
+    "state": 0
+  },
+  {
+    "symbol": "TOSHI_USDT",
+    "baseCoin": "TOSHI",
+    "state": 0
+  },
+  {
+    "symbol": "TOWNS_USDT",
+    "baseCoin": "TOWNS",
+    "state": 0
+  },
+  {
+    "symbol": "TRAC_USDT",
+    "baseCoin": "TRAC",
+    "state": 0
+  },
+  {
+    "symbol": "TRADOOR_USDT",
+    "baseCoin": "TRADOOR",
+    "state": 0
+  },
+  {
+    "symbol": "TRB_USDT",
+    "baseCoin": "TRB",
+    "state": 0
+  },
+  {
+    "symbol": "TREE_USDT",
+    "baseCoin": "TREE",
+    "state": 0
+  },
+  {
+    "symbol": "TRIA_USDT",
+    "baseCoin": "TRIA",
+    "state": 0
+  },
+  {
+    "symbol": "TRIPLET_USDT",
+    "baseCoin": "TRIPLET",
+    "state": 0
+  },
+  {
+    "symbol": "TROLLSOL_USDT",
+    "baseCoin": "TROLLSOL",
+    "state": 0
+  },
+  {
+    "symbol": "TRUMPOFFICIAL_USDT",
+    "baseCoin": "TRUMPOFFICIAL",
+    "state": 0
+  },
+  {
+    "symbol": "TRUMP_USDC",
+    "baseCoin": "TRUMP",
+    "state": 0
+  },
+  {
+    "symbol": "TRUST_USDT",
+    "baseCoin": "TRUST",
+    "state": 0
+  },
+  {
+    "symbol": "TRUTH_USDT",
+    "baseCoin": "TRUTH",
+    "state": 0
+  },
+  {
+    "symbol": "TRX_USD1",
+    "baseCoin": "TRX",
+    "state": 0
+  },
+  {
+    "symbol": "TRX_USDC",
+    "baseCoin": "TRX",
+    "state": 0
+  },
+  {
+    "symbol": "TRX_USDT",
+    "baseCoin": "TRX",
+    "state": 0
+  },
+  {
+    "symbol": "TRY_USDT",
+    "baseCoin": "TRY",
+    "state": 0
+  },
+  {
+    "symbol": "TSMSTOCK_USDT",
+    "baseCoin": "TSMSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "TST_USDT",
+    "baseCoin": "TST",
+    "state": 0
+  },
+  {
+    "symbol": "TURBO_USDT",
+    "baseCoin": "TURBO",
+    "state": 0
+  },
+  {
+    "symbol": "TURTLE_USDT",
+    "baseCoin": "TURTLE",
+    "state": 0
+  },
+  {
+    "symbol": "TUT_USDT",
+    "baseCoin": "TUT",
+    "state": 0
+  },
+  {
+    "symbol": "TWT_USDT",
+    "baseCoin": "TWT",
+    "state": 0
+  },
+  {
+    "symbol": "TXNSTOCK_USDT",
+    "baseCoin": "TXNSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "T_USDT",
+    "baseCoin": "T",
+    "state": 0
+  },
+  {
+    "symbol": "UAI_USDT",
+    "baseCoin": "UAI",
+    "state": 0
+  },
+  {
+    "symbol": "UBERSTOCK_USDT",
+    "baseCoin": "UBERSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "UB_USDT",
+    "baseCoin": "UB",
+    "state": 0
+  },
+  {
+    "symbol": "UKOIL_USD1",
+    "baseCoin": "UKOIL",
+    "state": 0
+  },
+  {
+    "symbol": "UKOIL_USDT",
+    "baseCoin": "UKOIL",
+    "state": 0
+  },
+  {
+    "symbol": "ULTIMA_USDT",
+    "baseCoin": "ULTIMA",
+    "state": 0
+  },
+  {
+    "symbol": "UMA_USDT",
+    "baseCoin": "UMA",
+    "state": 0
+  },
+  {
+    "symbol": "UNC_USDT",
+    "baseCoin": "UNC",
+    "state": 0
+  },
+  {
+    "symbol": "UNHSTOCK_USDT",
+    "baseCoin": "UNHSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "UNI_USD1",
+    "baseCoin": "UNI",
+    "state": 0
+  },
+  {
+    "symbol": "UNI_USDC",
+    "baseCoin": "UNI",
+    "state": 0
+  },
+  {
+    "symbol": "UNI_USDT",
+    "baseCoin": "UNI",
+    "state": 0
+  },
+  {
+    "symbol": "UPEG_USDT",
+    "baseCoin": "UPEG",
+    "state": 0
+  },
+  {
+    "symbol": "UP_USDT",
+    "baseCoin": "UP",
+    "state": 0
+  },
+  {
+    "symbol": "US30_USDT",
+    "baseCoin": "US30",
+    "state": 4
+  },
+  {
+    "symbol": "USARSTOCK_USDT",
+    "baseCoin": "USARSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "USDC_USDT",
+    "baseCoin": "USDC",
+    "state": 0
+  },
+  {
+    "symbol": "USDUC_USDT",
+    "baseCoin": "USDUC",
+    "state": 0
+  },
+  {
+    "symbol": "USELESS_USDT",
+    "baseCoin": "USELESS",
+    "state": 0
+  },
+  {
+    "symbol": "USOIL_USD1",
+    "baseCoin": "USOIL",
+    "state": 0
+  },
+  {
+    "symbol": "USOIL_USDT",
+    "baseCoin": "USOIL",
+    "state": 0
+  },
+  {
+    "symbol": "USTC_USDT",
+    "baseCoin": "USTC",
+    "state": 0
+  },
+  {
+    "symbol": "USUAL_USDT",
+    "baseCoin": "USUAL",
+    "state": 0
+  },
+  {
+    "symbol": "US_USDT",
+    "baseCoin": "US",
+    "state": 0
+  },
+  {
+    "symbol": "UTYA_USDT",
+    "baseCoin": "UTYA",
+    "state": 0
+  },
+  {
+    "symbol": "VANA_USDT",
+    "baseCoin": "VANA",
+    "state": 0
+  },
+  {
+    "symbol": "VANRY_USDT",
+    "baseCoin": "VANRY",
+    "state": 0
+  },
+  {
+    "symbol": "VELODROME_USDT",
+    "baseCoin": "VELODROME",
+    "state": 0
+  },
+  {
+    "symbol": "VELO_USDT",
+    "baseCoin": "VELO",
+    "state": 0
+  },
+  {
+    "symbol": "VELVET_USDT",
+    "baseCoin": "VELVET",
+    "state": 0
+  },
+  {
+    "symbol": "VET_USDT",
+    "baseCoin": "VET",
+    "state": 0
+  },
+  {
+    "symbol": "VIC_USDT",
+    "baseCoin": "VIC",
+    "state": 0
+  },
+  {
+    "symbol": "VINE_USDT",
+    "baseCoin": "VINE",
+    "state": 0
+  },
+  {
+    "symbol": "VIRTUAL_USDC",
+    "baseCoin": "VIRTUAL",
+    "state": 0
+  },
+  {
+    "symbol": "VIRTUAL_USDT",
+    "baseCoin": "VIRTUAL",
+    "state": 0
+  },
+  {
+    "symbol": "VRTSTOCK_USDT",
+    "baseCoin": "VRTSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "VSTOCK_USDT",
+    "baseCoin": "VSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "VTHO_USDT",
+    "baseCoin": "VTHO",
+    "state": 0
+  },
+  {
+    "symbol": "VVV_USDT",
+    "baseCoin": "VVV",
+    "state": 0
+  },
+  {
+    "symbol": "VZSTOCK_USDT",
+    "baseCoin": "VZSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "WAL_USDT",
+    "baseCoin": "WAL",
+    "state": 0
+  },
+  {
+    "symbol": "WAVES_USDT",
+    "baseCoin": "WAVES",
+    "state": 0
+  },
+  {
+    "symbol": "WAXP_USDT",
+    "baseCoin": "WAXP",
+    "state": 0
+  },
+  {
+    "symbol": "WCT_USDT",
+    "baseCoin": "WCT",
+    "state": 0
+  },
+  {
+    "symbol": "WDCSTOCK_USDT",
+    "baseCoin": "WDCSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "WET_USDT",
+    "baseCoin": "WET",
+    "state": 0
+  },
+  {
+    "symbol": "WFCSTOCK_USDT",
+    "baseCoin": "WFCSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "WHITEWHALE_USDT",
+    "baseCoin": "WHITEWHALE",
+    "state": 0
+  },
+  {
+    "symbol": "WIF_USDC",
+    "baseCoin": "WIF",
+    "state": 0
+  },
+  {
+    "symbol": "WIF_USDT",
+    "baseCoin": "WIF",
+    "state": 0
+  },
+  {
+    "symbol": "WLD_USDC",
+    "baseCoin": "WLD",
+    "state": 0
+  },
+  {
+    "symbol": "WLD_USDT",
+    "baseCoin": "WLD",
+    "state": 0
+  },
+  {
+    "symbol": "WLFI_USD1",
+    "baseCoin": "WLFI",
+    "state": 0
+  },
+  {
+    "symbol": "WLFI_USDC",
+    "baseCoin": "WLFI",
+    "state": 0
+  },
+  {
+    "symbol": "WLFI_USDT",
+    "baseCoin": "WLFI",
+    "state": 0
+  },
+  {
+    "symbol": "WMTSTOCK_USDT",
+    "baseCoin": "WMTSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "WOJAK_USDT",
+    "baseCoin": "WOJAK",
+    "state": 0
+  },
+  {
+    "symbol": "WOO_USDT",
+    "baseCoin": "WOO",
+    "state": 0
+  },
+  {
+    "symbol": "WOTAMALAILE_USDT",
+    "baseCoin": "WOTAMALAILE",
+    "state": 0
+  },
+  {
+    "symbol": "W_USDT",
+    "baseCoin": "W",
+    "state": 0
+  },
+  {
+    "symbol": "XAI_USDT",
+    "baseCoin": "XAI",
+    "state": 0
+  },
+  {
+    "symbol": "XAN_USDT",
+    "baseCoin": "XAN",
+    "state": 0
+  },
+  {
+    "symbol": "XAUT_USD1",
+    "baseCoin": "XAUT",
+    "state": 0
+  },
+  {
+    "symbol": "XAUT_USDC",
+    "baseCoin": "XAUT",
+    "state": 0
+  },
+  {
+    "symbol": "XAUT_USDT",
+    "baseCoin": "XAUT",
+    "state": 0
+  },
+  {
+    "symbol": "XCN_USDT",
+    "baseCoin": "XCN",
+    "state": 0
+  },
+  {
+    "symbol": "XDC_USDT",
+    "baseCoin": "XDC",
+    "state": 0
+  },
+  {
+    "symbol": "XEC_USDT",
+    "baseCoin": "XEC",
+    "state": 0
+  },
+  {
+    "symbol": "XIONGMAOTOU_USDT",
+    "baseCoin": "XIONGMAOTOU",
+    "state": 0
+  },
+  {
+    "symbol": "XION_USDT",
+    "baseCoin": "XION",
+    "state": 0
+  },
+  {
+    "symbol": "XLM_USDC",
+    "baseCoin": "XLM",
+    "state": 0
+  },
+  {
+    "symbol": "XLM_USDT",
+    "baseCoin": "XLM",
+    "state": 0
+  },
+  {
+    "symbol": "XMR_USDT",
+    "baseCoin": "XMR",
+    "state": 0
+  },
+  {
+    "symbol": "XNY_USDT",
+    "baseCoin": "XNY",
+    "state": 0
+  },
+  {
+    "symbol": "XOMSTOCK_USDT",
+    "baseCoin": "XOMSTOCK",
+    "state": 0
+  },
+  {
+    "symbol": "XPD_USDT",
+    "baseCoin": "XPD",
+    "state": 0
+  },
+  {
+    "symbol": "XPIN_USDT",
+    "baseCoin": "XPIN",
+    "state": 0
+  },
+  {
+    "symbol": "XPL_USDT",
+    "baseCoin": "XPL",
+    "state": 0
+  },
+  {
+    "symbol": "XPT_USDT",
+    "baseCoin": "XPT",
+    "state": 0
+  },
+  {
+    "symbol": "XRP_USD",
+    "baseCoin": "XRP",
+    "state": 0
+  },
+  {
+    "symbol": "XRP_USD1",
+    "baseCoin": "XRP",
+    "state": 0
+  },
+  {
+    "symbol": "XRP_USDC",
+    "baseCoin": "XRP",
+    "state": 0
+  },
+  {
+    "symbol": "XRP_USDT",
+    "baseCoin": "XRP",
+    "state": 0
+  },
+  {
+    "symbol": "XTZ_USDT",
+    "baseCoin": "XTZ",
+    "state": 0
+  },
+  {
+    "symbol": "XVG_USDT",
+    "baseCoin": "XVG",
+    "state": 0
+  },
+  {
+    "symbol": "XVS_USDT",
+    "baseCoin": "XVS",
+    "state": 0
+  },
+  {
+    "symbol": "YB_USDT",
+    "baseCoin": "YB",
+    "state": 0
+  },
+  {
+    "symbol": "YFI_USDT",
+    "baseCoin": "YFI",
+    "state": 0
+  },
+  {
+    "symbol": "YGG_USDT",
+    "baseCoin": "YGG",
+    "state": 0
+  },
+  {
+    "symbol": "ZAMA_USDT",
+    "baseCoin": "ZAMA",
+    "state": 0
+  },
+  {
+    "symbol": "ZBCN_USDT",
+    "baseCoin": "ZBCN",
+    "state": 0
+  },
+  {
+    "symbol": "ZBT_USDT",
+    "baseCoin": "ZBT",
+    "state": 0
+  },
+  {
+    "symbol": "ZEC_USD1",
+    "baseCoin": "ZEC",
+    "state": 0
+  },
+  {
+    "symbol": "ZEC_USDC",
+    "baseCoin": "ZEC",
+    "state": 0
+  },
+  {
+    "symbol": "ZEC_USDT",
+    "baseCoin": "ZEC",
+    "state": 0
+  },
+  {
+    "symbol": "ZEN_USDT",
+    "baseCoin": "ZEN",
+    "state": 0
+  },
+  {
+    "symbol": "ZEREBRO_USDT",
+    "baseCoin": "ZEREBRO",
+    "state": 0
+  },
+  {
+    "symbol": "ZETA_USDT",
+    "baseCoin": "ZETA",
+    "state": 0
+  },
+  {
+    "symbol": "ZIG_USDT",
+    "baseCoin": "ZIG",
+    "state": 0
+  },
+  {
+    "symbol": "ZIL_USDT",
+    "baseCoin": "ZIL",
+    "state": 0
+  },
+  {
+    "symbol": "ZINC_USDT",
+    "baseCoin": "ZINC",
+    "state": 4
+  },
+  {
+    "symbol": "ZKC_USDT",
+    "baseCoin": "ZKC",
+    "state": 0
+  },
+  {
+    "symbol": "ZKP_USDT",
+    "baseCoin": "ZKP",
+    "state": 0
+  },
+  {
+    "symbol": "ZKSYNC_USDT",
+    "baseCoin": "ZKSYNC",
+    "state": 0
+  },
+  {
+    "symbol": "ZORA_USDT",
+    "baseCoin": "ZORA",
+    "state": 0
+  },
+  {
+    "symbol": "ZRO_USDT",
+    "baseCoin": "ZRO",
+    "state": 0
+  },
+  {
+    "symbol": "ZRX_USDT",
+    "baseCoin": "ZRX",
+    "state": 0
+  }
+]
